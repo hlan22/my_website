@@ -1,6 +1,11 @@
+# Files for git to ignore!
+
+# default ones on the .gitignore file
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-
 /.quarto/
+
+# other R related files
+.Rprofile
