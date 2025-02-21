@@ -1,11 +1,18 @@
 ---
-title: "my_website"
+title: " Heidi Lantz"
 ---
 
-This is a Quarto website.
+Hello! I am a 5th year Statistics student at UBC. :tree: :pizza:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am in a Bachelor of Science, majoring in statistics with a minor in data science.
+I also have a concentration in commerce and have taken a lot of computer science courses!
 
-```{r}
-1 + 1
-```
+My interests involve data science consulting, data visualization, actuarial science, and data engineering.
+
+Feel free to reach out to if you have any questions!
+
+Here is my contact information:
+
+  - GitHub:
+  - LinkedIn:
+  - Email: <heidilantz22@gmail.com>
