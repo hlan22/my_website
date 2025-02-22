@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "my_website"
+  title: "My Website"
   navbar:
     left:
       - href: index.qmd
@@ -20,3 +20,5 @@ format:
 
 editor: visual
 
+publish:
+  - gh-pages
