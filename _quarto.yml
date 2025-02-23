@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "My Website"
+  title: "Heidi Lantz"
   navbar:
     left:
       - href: index.qmd
@@ -19,6 +20,3 @@ format:
     toc: true
 
 editor: visual
-
-publish:
-  - gh-pages

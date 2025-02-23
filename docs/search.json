@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Heidi Lantz",
+    "section": "",
+    "text": "Hello! I am a 5th year Statistics student at UBC. :tree: :pizza:\nI am in a Bachelor of Science, majoring in statistics with a minor in data science. I also have a concentration in commerce and have taken a lot of computer science courses!\nMy interests involve data science consulting, data visualization, actuarial science, and data engineering.\nFeel free to reach out to if you have any questions!\nHere is my contact information:\n\nGitHub:\nLinkedIn:\nEmail: heidilantz22@gmail.com"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Here is info about all my projects that I have done!\n\n(info here)"
+  },
+  {
+    "objectID": "about_websites.html",
+    "href": "about_websites.html",
+    "title": "All About Websites!",
+    "section": "",
+    "text": "This is my first website, so here I will talk about important info I learn here!\n\nFor basic information on Quarto websites I started with: https://quarto.org/docs/websites."
+  }
+]
