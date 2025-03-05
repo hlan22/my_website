@@ -3,13 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Heidi Lantz"
+  title: "Heidi's Portfolio"
   navbar:
     left:
-      - href: index.qmd
+      - href: pages/index.qmd
         text: Home
-      - about.qmd
-      - about_websites.qmd
+      - pages/projects.qmd
+      - pages/visualizations.qmd
+      - pages/website_info.qmd
 
 format:
   html:
