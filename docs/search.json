@@ -1,23 +1,51 @@
 [
   {
+    "objectID": "pages/website_info.html",
+    "href": "pages/website_info.html",
+    "title": "All About Websites!",
+    "section": "",
+    "text": "This is my first website, so here I will talk about important info I learn here!\n\nFor basic information on Quarto websites I started with: https://quarto.org/docs/websites.\n\nAny special customization that I do, I hope to outline here as a guide to making your own!"
+  },
+  {
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "This page will contain info about all my projects that I have done!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Heidi Lantz",
     "section": "",
-    "text": "Hello! I am a 5th year Statistics student at UBC. :tree: :pizza:\nI am in a Bachelor of Science, majoring in statistics with a minor in data science. I also have a concentration in commerce and have taken a lot of computer science courses!\nMy interests involve data science consulting, data visualization, actuarial science, and data engineering.\nFeel free to reach out to if you have any questions!\nHere is my contact information:\n\nGitHub:\nLinkedIn:\nEmail: heidilantz22@gmail.com"
+    "text": "Hi! I am a 5th year Statistics student at UBC. :tada:\nI am in a Bachelor of Science, majoring in statistics with a minor in data science.\nMy interests involve data science consulting, data visualization, actuarial science, and data engineering. Please take a look through my website to get a sense of who I am and what I like to do!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "My Projects",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Heidi Lantz",
     "section": "",
-    "text": "Here is info about all my projects that I have done!\n\n(info here)"
+    "text": "Hi! I am a 5th year Statistics student at UBC. :tada:\nI am in a Bachelor of Science, majoring in statistics with a minor in data science.\nMy interests involve data science consulting, data visualization, actuarial science, and data engineering. Please take a look through my website to get a sense of who I am and what I like to do!"
   },
   {
-    "objectID": "about_websites.html",
-    "href": "about_websites.html",
-    "title": "All About Websites!",
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Heidi Lantz",
+    "section": "Contact",
+    "text": "Contact\nFeel free to reach out to if you have any questions!\nHere is my contact information:\n\nGitHub: https://github.com/hlan22\nLinkedIn: https://www.linkedin.com/in/heidilantz/\nEmail: heidilantz22@gmail.com"
+  },
+  {
+    "objectID": "index.html#other-pages",
+    "href": "index.html#other-pages",
+    "title": "Heidi Lantz",
+    "section": "Other Pages",
+    "text": "Other Pages"
+  },
+  {
+    "objectID": "pages/visualizations.html",
+    "href": "pages/visualizations.html",
+    "title": "My Visualizations",
     "section": "",
-    "text": "This is my first website, so here I will talk about important info I learn here!\n\nFor basic information on Quarto websites I started with: https://quarto.org/docs/websites."
+    "text": "This page will show off different visualizations I have created and am proud of!"
   }
 ]
