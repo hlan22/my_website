@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  input-dir: pages
 
 website:
   title: "Heidi's Portfolio"
@@ -15,7 +16,7 @@ website:
 format:
   html:
     theme:
-      - cyborg
+      - flatly
       - brand
     css: styles.css
     toc: true
