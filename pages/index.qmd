@@ -1,0 +1,27 @@
+---
+title: "Heidi Lantz"
+title-block-banner: true
+toc: true
+---
+
+## About Me
+
+Hi! I am a 5th year Statistics student at UBC. :tada:
+
+I am in a Bachelor of Science, majoring in statistics with a minor in data science.
+
+My interests involve data science consulting, data visualization, actuarial science, and data engineering. 
+Please take a look through my website to get a sense of who I am and what I like to do!
+
+## Contact
+
+Feel free to reach out to if you have any questions!
+
+Here is my contact information:
+
+  - **GitHub**: <https://github.com/hlan22>
+  - **LinkedIn**: <https://www.linkedin.com/in/heidilantz/>
+  - **Email**: <heidilantz22@gmail.com>
+
+## Other Pages
+

@@ -1,8 +1,0 @@
----
-title: "All About Websites!"
----
-
-This is my first website, so here I will talk about important info I learn here!
-
-
-* For basic information on Quarto websites I started with: <https://quarto.org/docs/websites>.

@@ -1,7 +1,0 @@
----
-title: "My Projects"
----
-
-Here is info about all my projects that I have done!
-
-* (info here)
