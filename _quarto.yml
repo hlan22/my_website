@@ -1,17 +1,16 @@
 project:
   type: website
   output-dir: docs
-  input-dir: pages
 
 website:
   title: "Heidi's Portfolio"
   navbar:
     left:
-      - href: pages/index.qmd
+      - href: index.qmd
         text: Home
-      - pages/projects.qmd
-      - pages/visualizations.qmd
-      - pages/website_info.qmd
+      - href: pages/projects.qmd
+      - href: pages/visualizations.qmd
+      - href: pages/website_info.qmd
 
 format:
   html:
