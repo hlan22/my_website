@@ -9,3 +9,7 @@
 
 # other R related files
 .Rprofile
+*.Rproj
+
+# clean up the repo
+_site/
