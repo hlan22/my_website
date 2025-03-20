@@ -8,9 +8,9 @@ website:
     left:
       - href: index.html
         text: Home
-      - href: pages/projects.html
-      - href: pages/visualizations.html
-      - href: pages/website_info.html
+      - pages/projects.html
+      - pages/visualizations.html
+      - pages/website_info.html
 
 format:
   html:
@@ -20,4 +20,8 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+# editor: visual
+
+# overwrite any render-on-save option
+editor:
+  render-on-save: true
