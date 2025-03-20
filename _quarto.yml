@@ -6,11 +6,11 @@ website:
   title: "Heidi's Portfolio"
   navbar:
     left:
-      - href: index.qmd
+      - href: index.html
         text: Home
-      - href: pages/projects.qmd
-      - href: pages/visualizations.qmd
-      - href: pages/website_info.qmd
+      - href: pages/projects.html
+      - href: pages/visualizations.html
+      - href: pages/website_info.html
 
 format:
   html:
