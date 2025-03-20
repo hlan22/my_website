@@ -13,3 +13,8 @@
 
 # clean up the repo
 _site/
+*_files/
+
+# personal images
+images/*
+
