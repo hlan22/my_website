@@ -3,3 +3,5 @@ title: "My Visualizations"
 ---
 
 This page will show off different visualizations I have created and am proud of!
+
+(Currently in progress of making the page, sorry!)
