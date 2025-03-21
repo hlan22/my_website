@@ -8,9 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - pages/projects.qmd
-      - pages/visualizations.qmd
-      - pages/website_info.qmd
+      - projects.qmd
+      - visualizations.qmd
+      - website_info.qmd
 
 format:
   html:

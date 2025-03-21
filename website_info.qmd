@@ -1,0 +1,47 @@
+---
+title: "All About Websites!"
+toc: true
+format:
+  html:
+    css: styles.css
+---
+
+This is my first website, so here I will talk about important info I learn here!
+
+-   For basic information on Quarto websites I started with: <https://quarto.org/docs/websites>.
+
+Any special customization that I do, I hope to outline here as a guide to making your own!
+
+### Markdown tips
+
+-   To receive the outline shown on the right-hand side of this page, specify in the YAML header the following: `toc: true`.
+
+### Styling and Rendering
+
+-   Create a `styles.css` file (in the same directory as your `index.qmd` file) to create custom HTML styling.
+    -   For example, the way I created the purple box shown at the bottom of this page is done by putting the following in the `styles.css` file:
+
+```HTML
+.purplebox {
+    background-color: #e3dfff; /* Light Purple */
+    border: 3px solid #7a5fa3; /* Dark Purple */
+    color: #3d236f; /* Text Color */
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+```
+    - Which you can then execute by putting this in your document:
+
+
+
+:::: purplebox
+::: center
+**NOTICE!**\
+Thank you for noticing this notice!\
+Please know that I am still updating this website... please be patient :)\
+I am excited to show off all the cool skills I have learned!
+:::
+::::

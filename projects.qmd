@@ -1,0 +1,25 @@
+---
+title: "My Projects"
+format:
+  html:
+    css: styles.css
+---
+
+This page will contain info about all my projects that I have done!
+
+(Currently in progress of making the page, sorry!)
+
+## CMD-F Hackathon Project
+
+## Capstone Project
+
+## DSCI 310 Project
+
+:::: {.purplebox}
+::: {.center}
+**NOTICE!**  
+Thank you for noticing this notice!  
+Please note that I am still updating this website, and have only recently started it!
+I am excited to show off all the cool skills I have learned :)
+:::
+::::
