@@ -1,16 +1,16 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: docs # put rendered info into docs folder
 
 website:
   title: "Heidi's Portfolio"
   navbar:
     left:
-      - href: index.html
+      - href: index.qmd
         text: Home
-      - pages/projects.html
-      - pages/visualizations.html
-      - pages/website_info.html
+      - pages/projects.qmd
+      - pages/visualizations.qmd
+      - pages/website_info.qmd
 
 format:
   html:
