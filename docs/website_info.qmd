@@ -21,7 +21,7 @@ Any special customization that I do, I hope to outline here as a guide to making
 -   Create a `styles.css` file (in the same directory as your `index.qmd` file) to create custom HTML styling.
     -   For example, the way I created the purple box shown at the bottom of this page is done by putting the following in the `styles.css` file:
 
-```HTML
+``` html
 .purplebox {
     background-color: #e3dfff; /* Light Purple */
     border: 3px solid #7a5fa3; /* Dark Purple */
@@ -33,9 +33,21 @@ Any special customization that I do, I hope to outline here as a guide to making
     font-family: sans-serif;
   }
 ```
-    - Which you can then execute by putting this in your document:
+
+         
+- Which you can then execute by putting this in your document:
 
 
+```HTML
+\:\:\:\: purplebox
+\:\:\: center
+**NOTICE!**\
+Thank you for noticing this notice!\
+Please know that I am still updating this website, and have only recently started it!\
+I am excited to show off all the cool skills I have learned :)
+\:\:\:
+\:\:\:\:
+```
 
 :::: purplebox
 ::: center

@@ -1,0 +1,22 @@
+/* css styles */
+
+.purplebox {
+    background-color: #e3dfff; /* Light Purple */
+    border: 3px solid #7a5fa3; /* Dark Purple */
+    color: #3d236f; /* Text Color */
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+
+.bluebox {
+    background-color: lightblue;
+    border: 3px solid darkblue;
+    color: #3d236f; /* Text Color */
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
