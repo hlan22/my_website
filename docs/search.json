@@ -1,115 +1,10 @@
 [
   {
-    "objectID": "pages/website_info.html",
-    "href": "pages/website_info.html",
-    "title": "All About Websites!",
-    "section": "",
-    "text": "This is my first website, so here I will talk about important info I learn here!\n\nFor basic information on Quarto websites I started with: https://quarto.org/docs/websites.\n\nAny special customization that I do, I hope to outline here as a guide to making your own!"
-  },
-  {
-    "objectID": "pages/projects.html",
-    "href": "pages/projects.html",
-    "title": "My Projects",
-    "section": "",
-    "text": "This page will contain info about all my projects that I have done!\n(Currently in progress of making the page, sorry!)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Heidi Lantz",
-    "section": "",
-    "text": "Hi! I am a 5th year Statistics student at UBC.\nI am in a Bachelor of Science, majoring in statistics with a minor in data science.\nMy interests involve data science consulting, data visualization, actuarial science, and data engineering. Please take a look through my website to get a sense of who I am and what I like to do!"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Heidi Lantz",
-    "section": "",
-    "text": "Hi! I am a 5th year Statistics student at UBC.\nI am in a Bachelor of Science, majoring in statistics with a minor in data science.\nMy interests involve data science consulting, data visualization, actuarial science, and data engineering. Please take a look through my website to get a sense of who I am and what I like to do!"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Heidi Lantz",
-    "section": "Contact",
-    "text": "Contact\nFeel free to reach out to if you have any questions!\nHere is my contact information:\n\nGitHub: https://github.com/hlan22\nLinkedIn: https://www.linkedin.com/in/heidilantz/\nEmail: heidilantz22@gmail.com"
-  },
-  {
-    "objectID": "index.html#other-pages",
-    "href": "index.html#other-pages",
-    "title": "Heidi Lantz",
-    "section": "Other Pages",
-    "text": "Other Pages"
-  },
-  {
-    "objectID": "pages/visualizations.html",
-    "href": "pages/visualizations.html",
-    "title": "My Visualizations",
-    "section": "",
-    "text": "This page will show off different visualizations I have created and am proud of!\n(Currently in progress of making the page, sorry!)"
-  },
-  {
-    "objectID": "index.html#guide-to-other-pages",
-    "href": "index.html#guide-to-other-pages",
-    "title": "Heidi Lantz",
-    "section": "Guide to Other Pages",
-    "text": "Guide to Other Pages\n\nHome\n\nIntroduction to me, my general interests, and current events going on in my life.\n\nMy Projects\n\nTalks about my current and previous projects that I am proud of.\n\nMy Visualizations\n\nShowcases some visualizations I have made in the past that I am proud of.\n\nAll About Websites\n\nContains all the useful information I had learned about making websites while creating this one!"
-  },
-  {
-    "objectID": "index.html#current-events",
-    "href": "index.html#current-events",
-    "title": "Heidi Lantz",
-    "section": "Current Events",
-    "text": "Current Events\n\nApril 11th, 2025\nCome see my STAT 450 capstone project poster board presentation!\n\n\nMarch 8-9th, 2025\nCMD-F 2025 Hackathon Finalist: 3rd Place\n\nWinner of “Social” category, and then received third place out of all the categories combined\nWinners received $200 and their project displayed on the cmd-f website (not uploaded yet).\n\n\n\n\nNOTICE!\nThank you for noticing this notice!\nPlease note that I am still updating this website, and have only recently started it! I am excited to show off all the cool skills I have learned :)"
-  },
-  {
-    "objectID": "pages/projects.html#cmd-f-hackathon-project",
-    "href": "pages/projects.html#cmd-f-hackathon-project",
-    "title": "My Projects",
-    "section": "CMD-F Hackathon Project",
-    "text": "CMD-F Hackathon Project"
-  },
-  {
-    "objectID": "pages/projects.html#capstone-project",
-    "href": "pages/projects.html#capstone-project",
-    "title": "My Projects",
-    "section": "Capstone Project",
-    "text": "Capstone Project"
-  },
-  {
-    "objectID": "pages/projects.html#dsci-310-project",
-    "href": "pages/projects.html#dsci-310-project",
-    "title": "My Projects",
-    "section": "DSCI 310 Project",
-    "text": "DSCI 310 Project"
-  },
-  {
-    "objectID": "additional_pages/website_info.html",
-    "href": "additional_pages/website_info.html",
-    "title": "All About Websites!",
-    "section": "",
-    "text": "This is my first website, so here I will talk about important info I learn here!\n\nFor basic information on Quarto websites I started with: https://quarto.org/docs/websites.\n\nAny special customization that I do, I hope to outline here as a guide to making your own!"
-  },
-  {
-    "objectID": "additional_pages/visualizations.html",
-    "href": "additional_pages/visualizations.html",
-    "title": "My Visualizations",
-    "section": "",
-    "text": "This page will show off different visualizations I have created and am proud of!\n(Currently in progress of making the page, sorry!)"
-  },
-  {
     "objectID": "website_info.html",
     "href": "website_info.html",
     "title": "All About Websites!",
     "section": "",
-    "text": "This is my first website, so here I will talk about important info I learn here!\n\nFor basic information on Quarto websites I started with: https://quarto.org/docs/websites.\n\nAny special customization that I do, I hope to outline here as a guide to making your own!\n\nMarkdown tips\n\nTo receive the outline shown on the right-hand side of this page, specify in the YAML header the following: toc: true.\n\n\n\nStyling and Rendering\n\nCreate a styles.css file (in the same directory as your index.qmd file) to create custom HTML styling.\n\nFor example, the way I created the purple box shown at the bottom of this page is done by putting the following in the styles.css file:\n\n\n.purplebox {\n    background-color: #e3dfff; /* Light Purple */\n    border: 3px solid #7a5fa3; /* Dark Purple */\n    color: #3d236f; /* Text Color */\n    padding: 10px;\n    border-radius: 8px;\n    text-align: center;\n    font-weight: bold;\n    font-family: sans-serif;\n  }\n\n\nNOTICE!\nThank you for noticing this notice!\nPlease know that I am still updating this website, and have only recently started it!\nI am excited to show off all the cool skills I have learned :)"
-  },
-  {
-    "objectID": "visualizations.html",
-    "href": "visualizations.html",
-    "title": "My Visualizations",
-    "section": "",
-    "text": "This page will showcase different visualizations I have created and am proud of!\n(Currently in progress of making the page, sorry!)\n\n\nNOTICE!\nThank you for noticing this notice!\nPlease note that I am still updating this website, and have only recently started it! I am excited to show off all the cool skills I have learned :)"
+    "text": "This is my first website, so here I will talk about important info I learn here!\n\nFor basic information on Quarto websites I started with: https://quarto.org/docs/websites.\n\nAny special customization that I do, I hope to outline here as a guide to making your own!\n\nMarkdown tips\n\nTo receive the outline shown on the right-hand side of this page, specify in the YAML header the following: toc: true.\n\n\n\nStyling and Rendering\n\nCreate a styles.css file (in the same directory as your index.qmd file) to create custom HTML styling.\n\nFor example, the way I created the purple box shown at the bottom of this page is done by putting the following in the styles.css file:\n\n\n.purplebox {\n    background-color: #e3dfff; /* Light Purple */\n    border: 3px solid #7a5fa3; /* Dark Purple */\n    color: #3d236f; /* Text Color */\n    padding: 10px;\n    border-radius: 8px;\n    text-align: center;\n    font-weight: bold;\n    font-family: sans-serif;\n  }\n\nWhich you can then execute by putting this in your document:\n\n\\:\\:\\:\\: purplebox\n\\:\\:\\: center\n**NOTICE!**\\\nThank you for noticing this notice!\\\nPlease know that I am still updating this website, and have only recently started it!\\\nI am excited to show off all the cool skills I have learned :)\n\\:\\:\\:\n\\:\\:\\:\\:\n\n\nNOTICE!\nThank you for noticing this notice!\nPlease know that I am still updating this website… please be patient :)\nI am excited to show off all the cool skills I have learned!"
   },
   {
     "objectID": "projects.html",
@@ -138,5 +33,47 @@
     "title": "My Projects",
     "section": "DSCI 310 Project",
     "text": "DSCI 310 Project\n\n\nNOTICE!\nThank you for noticing this notice!\nPlease note that I am still updating this website, and have only recently started it! I am excited to show off all the cool skills I have learned :)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Heidi Lantz",
+    "section": "",
+    "text": "Hi! I am a 5th year Statistics student at UBC.\nI am in a Bachelor of Science, majoring in statistics with a minor in data science.\nMy interests involve data science consulting, data visualization, actuarial science, and data engineering. Please take a look through my website to get a sense of who I am and what I like to do!"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Heidi Lantz",
+    "section": "",
+    "text": "Hi! I am a 5th year Statistics student at UBC.\nI am in a Bachelor of Science, majoring in statistics with a minor in data science.\nMy interests involve data science consulting, data visualization, actuarial science, and data engineering. Please take a look through my website to get a sense of who I am and what I like to do!"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Heidi Lantz",
+    "section": "Contact",
+    "text": "Contact\nFeel free to reach out to if you have any questions!\nHere is my contact information:\n\nGitHub: https://github.com/hlan22\nLinkedIn: https://www.linkedin.com/in/heidilantz/\nEmail: heidilantz22@gmail.com"
+  },
+  {
+    "objectID": "index.html#guide-to-other-pages",
+    "href": "index.html#guide-to-other-pages",
+    "title": "Heidi Lantz",
+    "section": "Guide to Other Pages",
+    "text": "Guide to Other Pages\n\nHome\n\nIntroduction to me, my general interests, and current events going on in my life.\n\nMy Projects\n\nTalks about my current and previous projects that I am proud of.\n\nMy Visualizations\n\nShowcases some visualizations I have made in the past that I am proud of.\n\nAll About Websites\n\nContains all the useful information I had learned about making websites while creating this one!"
+  },
+  {
+    "objectID": "index.html#current-events",
+    "href": "index.html#current-events",
+    "title": "Heidi Lantz",
+    "section": "Current Events",
+    "text": "Current Events\n\nApril 11th, 2025\nCome see my STAT 450 capstone project poster board presentation!\n\n\nMarch 8-9th, 2025\nCMD-F 2025 Hackathon Finalist: 3rd Place\n\nWinner of “Social” category, and then received third place out of all the categories combined\nWinners received $200 and their project displayed on the cmd-f website (not uploaded yet).\n\n\n\n\nNOTICE!\nThank you for noticing this notice!\nPlease note that I am still updating this website, and have only recently started it! I am excited to show off all the cool skills I have learned :)"
+  },
+  {
+    "objectID": "visualizations.html",
+    "href": "visualizations.html",
+    "title": "My Visualizations",
+    "section": "",
+    "text": "This page will showcase different visualizations I have created and am proud of!\n(Currently in progress of making the page, sorry!)\n\n\nNOTICE!\nThank you for noticing this notice!\nPlease note that I am still updating this website, and have only recently started it! I am excited to show off all the cool skills I have learned :)"
   }
 ]

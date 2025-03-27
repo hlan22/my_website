@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs # put rendered info into docs folder
+  output-dir: ../docs 
 
 website:
   title: "Heidi's Portfolio"
