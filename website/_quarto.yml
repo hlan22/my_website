@@ -10,6 +10,7 @@ website:
         text: Home
       - projects.qmd
       - visualizations.qmd
+      - courses.qmd
       - website_info.qmd
 
 format:

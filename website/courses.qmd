@@ -1,0 +1,75 @@
+---
+title: "Courses and Certifications"
+toc: true
+# title-block-banner: true # Puts "Courses and Certifications" in blue banner
+format:
+  html:
+    css: styles.css
+---
+
+
+### Courses Taken At UBC
+
+<details>
+<summary>Data Science</summary>
+
+DSCI 310: Reproducible and Trustworthy Workflows
+
+* details
+
+DSCI 320: Data Visualization
+
+* details
+</details>
+
+<details>
+<summary>Statistics</summary>
+
+STAT 443: Time Series and Forecastin
+
+* details
+
+</details> 
+
+
+<details>
+<summary>Computer Science</summary>
+CPSC 304
+
+CPSC 210
+
+CPSC 110
+</details> 
+
+<details>
+<summary>Math</summary>
+
+MATH 101
+
+MATH 100
+
+</details> 
+
+<details>
+<summary>Business</summary>
+COMR 398
+
+* An organization's ultimate success depends on how efficiently and effectively it executes its strategic goals. This requires a detailed understanding of the processes used to produce and deliver goods and/or services to customers including:
+
+  * process analysis
+  * queuing systems
+  * project management
+  * inventory management
+  * supply chain management
+  
+* Upon successful completion of this course, students will have the managerial tools needed to understand and articulate the impact of an organization's business processes, and the ability to analyze and continuously improve these business processes.
+</details> 
+
+<details>
+<summary>Other Courses</summary>
+
+</details> 
+
+### Certifications
+
+* Research Ethics

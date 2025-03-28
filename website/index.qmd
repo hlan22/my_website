@@ -9,11 +9,13 @@ format:
 
 ## About Me
 
-Hi! I am a 5th year Statistics student at UBC.
+Hello! 
 
-I am in a Bachelor of Science, majoring in statistics with a minor in data science.
+I am a BSc. student at UBC, graduating in May!
 
-My interests involve data science consulting, data visualization, actuarial science, and data engineering. Please take a look through my website to get a sense of who I am and what I like to do!
+I am majoring in statistics and have a minor in data science.
+
+My interests involve consulting, data visualization, actuarial science, and data engineering. Please feel free to take a look through my website to get a sense of who I am and what I like to do!
 
 ## Contact
 

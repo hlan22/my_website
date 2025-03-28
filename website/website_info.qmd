@@ -33,27 +33,36 @@ Any special customization that I do, I hope to outline here as a guide to making
     font-family: sans-serif;
   }
 ```
-
          
 - Which you can then execute by putting this in your document:
 
-
 ```HTML
-\:\:\:\: purplebox
-\:\:\: center
+:::: purplebox
+::: center
 **NOTICE!**\
-Thank you for noticing this notice!\
-Please know that I am still updating this website, and have only recently started it!\
-I am excited to show off all the cool skills I have learned :)
-\:\:\:
-\:\:\:\:
+Please know that I am still updating this website... I hope to finish it soon :)
+:::
+::::
 ```
+
+- You can create a dropdown menu by doing the following HTML code:
+```html
+<details>
+<summary>Dropdown title</summary>
+Contents you want inside the dropdown menu
+</details> 
+```
+
+  Which looks like:
+<details>
+<summary>Dropdown title</summary>
+Contents you want inside the dropdown menu
+</details> 
+
 
 :::: purplebox
 ::: center
 **NOTICE!**\
-Thank you for noticing this notice!\
-Please know that I am still updating this website... please be patient :)\
-I am excited to show off all the cool skills I have learned!
+Please know that I am still updating this website... I hope to finish it soon :)
 :::
 ::::
