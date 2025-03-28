@@ -7,13 +7,9 @@ format:
 
 This page will showcase different visualizations I have created and am proud of!
 
-(Currently in progress of making the page, sorry!)
-
-:::: {.purplebox}
-::: {.center}
-**NOTICE!**  
-Thank you for noticing this notice!  
-Please note that I am still updating this website, and have only recently started it!
-I am excited to show off all the cool skills I have learned :)
+:::: purplebox
+::: center
+**NOTICE!**\
+Please know that I am still updating this website... I hope to finish it soon :)
 :::
 ::::

@@ -14,7 +14,7 @@
 .bluebox {
     background-color: lightblue;
     border: 3px solid darkblue;
-    color: #3d236f; /* Text Color */
+    color: black; /* Text Color */
     padding: 10px;
     border-radius: 8px;
     font-weight: bold;

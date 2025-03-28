@@ -29,13 +29,15 @@ Here is my contact information:
 
 ## Guide to Other Pages
 
--   [Home](#home)
-    -   Introduction to me, my general interests, and current events going on in my life.
--   [My Projects](#my-projects)
+-   [Home](index.html)
+    -   Introduction to me, my general interests, and current events going on related to my career in my life.
+-   [My Projects](projects.html)
     -   Talks about my current and previous projects that I am proud of.
--   [My Visualizations](#my-visualizations)
+-   [My Visualizations](visualizations.html)
     -   Showcases some visualizations I have made in the past that I am proud of.
--   [All About Websites](#all-about-websites!)
+-   [Courses and Certifications](courses.html)
+    -   Talks about all the courses I have taken and the information I have earned from them! 
+-   [All About Websites](website_info.html)
     -   Contains all the useful information I had learned about making websites while creating this one!
 
 ## Current Events
@@ -44,6 +46,12 @@ Here is my contact information:
 #### April 11th, 2025
 
 Come see my STAT 450 capstone project poster board presentation!
+:::
+
+::: bluebox
+#### March 21-23rd, 2025
+
+I participated in the ASA DataFest, a 48 hour data science hackathon!
 :::
 
 ::: bluebox
@@ -58,7 +66,6 @@ Come see my STAT 450 capstone project poster board presentation!
 :::: purplebox
 ::: center
 **NOTICE!**\
-Thank you for noticing this notice!\
-Please note that I am still updating this website, and have only recently started it! I am excited to show off all the cool skills I have learned :)
+Please know that I am still updating this website... I hope to finish it soon :)
 :::
 ::::

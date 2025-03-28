@@ -7,19 +7,19 @@ format:
 
 This page will contain info about all my projects that I have done!
 
-(Currently in progress of making the page, sorry!)
+## ASA DataFest
 
-## CMD-F Hackathon Project
+## CMD-F Hackathon
 
-## Capstone Project
+## STAT 450 Capstone 
 
-## DSCI 310 Project
+## DSCI 310
 
-:::: {.purplebox}
-::: {.center}
-**NOTICE!**  
-Thank you for noticing this notice!  
-Please note that I am still updating this website, and have only recently started it!
-I am excited to show off all the cool skills I have learned :)
+## Research Summer 2024
+
+:::: purplebox
+::: center
+**NOTICE!**\
+Please know that I am still updating this website... I hope to finish it soon :)
 :::
 ::::
