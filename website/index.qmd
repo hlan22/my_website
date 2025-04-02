@@ -1,6 +1,6 @@
 ---
 title: "Heidi Lantz"
-title-block-banner: true
+# title-block-banner: true
 toc: true
 format:
   html:
@@ -11,7 +11,7 @@ format:
 
 Hello! 
 
-I am a BSc. student at UBC, graduating in May!
+I'm Heidi, a BSc. student at UBC, graduating this May!
 
 I am majoring in statistics and have a minor in data science.
 
@@ -39,33 +39,3 @@ Here is my contact information:
     -   Talks about all the courses I have taken and the information I have earned from them! 
 -   [All About Websites](website_info.html)
     -   Contains all the useful information I had learned about making websites while creating this one!
-
-## Current Events
-
-::: bluebox
-#### April 11th, 2025
-
-Come see my STAT 450 capstone project poster board presentation!
-:::
-
-::: bluebox
-#### March 21-23rd, 2025
-
-I participated in the ASA DataFest, a 48 hour data science hackathon!
-:::
-
-::: bluebox
-#### March 8-9th, 2025
-
-**CMD-F 2025 Hackathon Finalist: 3rd Place**
-
--   Winner of “Social” category, and then received third place out of all the categories combined
--   Winners received \$200 and their project displayed on the cmd-f website (not uploaded yet).
-:::
-
-:::: purplebox
-::: center
-**NOTICE!**\
-Please know that I am still updating this website... I hope to finish it soon :)
-:::
-::::

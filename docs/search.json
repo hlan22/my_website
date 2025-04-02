@@ -11,42 +11,49 @@
     "href": "projects.html",
     "title": "My Projects",
     "section": "",
-    "text": "This page will contain info about all my projects that I have done!"
+    "text": "This page will contain info about all my projects that I have done!\nOutline: - Statistics Capstone Project - The Daily Grind (CMD-F Hackathon) - Easy EDA (Personal Project) - DSCI 310 - Weather Extremes Research - ASA Datafest"
   },
   {
-    "objectID": "projects.html#asa-datafest",
-    "href": "projects.html#asa-datafest",
+    "objectID": "projects.html#capstone",
+    "href": "projects.html#capstone",
     "title": "My Projects",
-    "section": "ASA DataFest",
-    "text": "ASA DataFest"
+    "section": "Statistics Capstone Project",
+    "text": "Statistics Capstone Project\n\nWith guidance from Dr. Rodolfo Lourenzutti, I worked for a client analyzing changes in glaucoma eye surgery\nReal client work, regular meetings with the professor presenting work, poster board and oral presentations\nProduced reports, coding, and worked directly for the client using the R coding language and GitHub\nLearned about complications with study design, model selection, and effective communication\nSee poster board session listing: https://www.stat.ubc.ca/poster-session-stat-450-2"
   },
   {
-    "objectID": "projects.html#cmd-f-hackathon",
-    "href": "projects.html#cmd-f-hackathon",
+    "objectID": "projects.html#cmdf",
+    "href": "projects.html#cmdf",
     "title": "My Projects",
-    "section": "CMD-F Hackathon",
-    "text": "CMD-F Hackathon"
+    "section": "The Daily Grind (CMD-F Hackathon)",
+    "text": "The Daily Grind (CMD-F Hackathon)\n\nMarch 8-9th, 2025, 24 hour hackathon\nWinner of “Social Track” in a 24 hour hackathon, Won 3rd place overall, with 50+ projects and 200+ participants\nPresented work to 7 judges individually, and in the final round presented in front of the entire hackathon community.\nSee the project at: https://devpost.com/software/the-daily-grind"
   },
   {
-    "objectID": "projects.html#stat-450-capstone",
-    "href": "projects.html#stat-450-capstone",
+    "objectID": "projects.html#easy",
+    "href": "projects.html#easy",
     "title": "My Projects",
-    "section": "STAT 450 Capstone",
-    "text": "STAT 450 Capstone"
+    "section": "Easy EDA (Personal Project)",
+    "text": "Easy EDA (Personal Project)\n\nPersonal project such that you can “automate” EDA for any given dataset.\nI hope to make an R package such that functions will quickly and easily create proper plots based on data types, for any and all columns. All code will be done with R initially, but will expand to Python too, for interactive visuals.\nLink to the Repo"
   },
   {
-    "objectID": "projects.html#dsci-310",
-    "href": "projects.html#dsci-310",
+    "objectID": "projects.html#reproducible",
+    "href": "projects.html#reproducible",
     "title": "My Projects",
     "section": "DSCI 310",
-    "text": "DSCI 310"
+    "text": "DSCI 310\n\nData Pipelines\nMakefiles\nDockerfiles\nCreating an R Package"
   },
   {
-    "objectID": "projects.html#research-summer-2024",
-    "href": "projects.html#research-summer-2024",
+    "objectID": "projects.html#research",
+    "href": "projects.html#research",
     "title": "My Projects",
-    "section": "Research Summer 2024",
-    "text": "Research Summer 2024\n\n\nNOTICE!\nPlease know that I am still updating this website… I hope to finish it soon :)"
+    "section": "Weather Extremes Research",
+    "text": "Weather Extremes Research\n\nWorking at UBC from May to August 2024 under an URSA NSERC scholarship\nWorking under professors Harry Joe and Natalia Nolde, I found patterns and explanations for climate extremes.\nDealt with Canadian weather data, relating to floods, droughts, and wildfires using Python and R languages.\nCompleted EDA and used various statistical analyses to gain insight into weather patterns and time series analysis.\nAnalyzed many research papers, presented work weekly, and assisted both professors with various tasks."
+  },
+  {
+    "objectID": "projects.html#datafest",
+    "href": "projects.html#datafest",
+    "title": "My Projects",
+    "section": "ASA DataFest",
+    "text": "ASA DataFest\n\nA 48 hour hackathon in a team of 3\nCreated a fully reproducible project, with a clear statistical analysis\nCreated a dashboard, demonstration video, presentation using quarto, and analysis using a bayesian model\nProject topic and workcan only be revealed after May 3, 2025\nInfo about ASA DataFest: https://ww2.amstat.org/education/datafest/\n\n\n\nNOTICE!\nPlease know that I am still updating this website… It will be finished soon :)"
   },
   {
     "objectID": "courses.html",
