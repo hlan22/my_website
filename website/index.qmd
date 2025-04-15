@@ -33,9 +33,3 @@ Here is my contact information:
     -   Introduction to me, my general interests, and current events going on related to my career in my life.
 -   [My Projects](projects.html)
     -   Talks about my current and previous projects that I am proud of.
--   [My Visualizations](visualizations.html)
-    -   Showcases some visualizations I have made in the past that I am proud of.
--   [Courses and Certifications](courses.html)
-    -   Talks about all the courses I have taken and the information I have earned from them! 
--   [All About Websites](website_info.html)
-    -   Contains all the useful information I had learned about making websites while creating this one!
