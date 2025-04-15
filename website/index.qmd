@@ -7,6 +7,10 @@ format:
     css: styles.css
 ---
 
+::: {.image-text-container}
+<img src="outputs/norway_image.jpg" class="profile-pic"/>
+
+<div>
 ## About Me
 
 Hello! 
@@ -16,6 +20,9 @@ I'm Heidi, a BSc. student at UBC, graduating this May!
 I am majoring in statistics and have a minor in data science.
 
 My interests involve consulting, data visualization, actuarial science, and data engineering. Please feel free to take a look through my website to get a sense of who I am and what I like to do!
+</div>
+:::
+
 
 ## Contact
 
