@@ -1,4 +1,4 @@
-name: Build and Render Website
+name: Quarto Render and Deploy Website
 
 on:
   push:
@@ -17,13 +17,17 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render site
+      - name: Render site (to docs/ folder)
         run: |
           cd website
           quarto render
 
-      - name: Upload site artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: website
-          path: website/_site 
+      - name: Commit rendered site
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add docs/
+          git commit -m "Auto-update rendered site" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
