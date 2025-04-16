@@ -20,3 +20,24 @@
     font-weight: bold;
     font-family: sans-serif;
   }
+  
+
+.image-text-container {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.profile-pic {
+  width: 350px; 
+  height: 600px;
+  border-radius: 10px; /* rounds corners */
+}
+
+.centered-title {
+  text-align: center;
+  font-size: 2.5rem; /* Adjust this for size */
+  color: black;
+  margin-top: 0rem;
+}

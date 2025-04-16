@@ -30,7 +30,14 @@
 }
 
 .profile-pic {
-  width: 300px; 
-  height: auto;
+  width: 350px; 
+  height: 600px;
   border-radius: 10px; /* rounds corners */
+}
+
+.centered-title {
+  text-align: center;
+  font-size: 2.5rem; /* Adjust this for size */
+  color: black;
+  margin-top: 0rem;
 }

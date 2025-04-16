@@ -1,5 +1,6 @@
 ---
 title: "My Projects"
+toc: true
 format:
   html:
     css: styles.css
@@ -8,12 +9,13 @@ format:
 This page will contain info about all my projects that I have done!
 
 Outline:
-- [Statistics Capstone Project](#capstone)
-- [The Daily Grind (CMD-F Hackathon)](#cmdf)
-- [Easy EDA (Personal Project)](#easy)
-- [DSCI 310](#reproducible)
-- [Weather Extremes Research](#research)
-- [ASA Datafest](#datafest)
+
+* [Statistics Capstone Project](#capstone)
+* [The Daily Grind (CMD-F Hackathon)](#cmdf)
+* [Easy EDA (Personal Project)](#easy)
+* [DSCI 310](#reproducible)
+* [Weather Extremes Research](#research)
+* [ASA Datafest](#datafest)
 
 
 ## Statistics Capstone Project {#capstone}
