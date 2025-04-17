@@ -35,7 +35,8 @@ Here is my contact information:
 
 ## Guide to Other Pages
 
--   [Home](index.html)
-    -   Introduction to me, my general interests, and current events going on related to my career in my life.
--   [My Projects](projects.html)
-    -   Talks about my current and previous projects that I am proud of.
+* [Home](index.html)
+  * Introduction to me, and my interests!
+* [My Projects](projects.html)
+  * My current and previous projects that I am proud of!
+* More pages coming soon!
