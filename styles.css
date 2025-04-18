@@ -1,9 +1,9 @@
 /* css styles */
 
 .purplebox {
-    background-color: #e3dfff; /* Light Purple */
-    border: 3px solid #7a5fa3; /* Dark Purple */
-    color: #3d236f; /* Text Color */
+    background-color: #e3dfff; 
+    border: 3px solid #7a5fa3;
+    color: #3d236f;
     padding: 10px;
     border-radius: 8px;
     text-align: center;
@@ -14,7 +14,7 @@
 .bluebox {
     background-color: lightblue;
     border: 3px solid darkblue;
-    color: #3d236f; /* Text Color */
+    color: #3d236f;
     padding: 10px;
     border-radius: 8px;
     font-weight: bold;
@@ -32,12 +32,12 @@
 .profile-pic {
   width: 350px; 
   height: 600px;
-  border-radius: 10px; /* rounds corners */
+  border-radius: 10px; 
 }
 
 .centered-title {
   text-align: center;
-  font-size: 2.5rem; /* Adjust this for size */
+  font-size: 2.5rem;
   color: black;
   margin-top: 0rem;
 }

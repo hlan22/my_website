@@ -2,49 +2,49 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "My Projects",
+    "title": "Heidi's Portfolio",
     "section": "",
-    "text": "This page will contain info about all my projects that I have done!\nOutline:"
+    "text": "My Projects\nHere is an outline of projects I am showcasing on this page:"
   },
   {
     "objectID": "projects.html#capstone",
     "href": "projects.html#capstone",
-    "title": "My Projects",
+    "title": "Heidi's Portfolio",
     "section": "Statistics Capstone Project",
     "text": "Statistics Capstone Project\n\nWith guidance from Dr. Rodolfo Lourenzutti, I worked for a client analyzing changes in glaucoma eye surgery in an apprentice type of job.\nReal client work, regular meetings with the professor presenting work, poster board and oral presentations\nProduced reports, coding, and worked directly for the client using the R coding language and GitHub\nLearned about complications with study design, model selection, and effective communication\nSee poster board session listing: https://www.stat.ubc.ca/poster-session-stat-450-2"
   },
   {
     "objectID": "projects.html#cmdf",
     "href": "projects.html#cmdf",
-    "title": "My Projects",
+    "title": "Heidi's Portfolio",
     "section": "The Daily Grind (CMD-F Hackathon)",
     "text": "The Daily Grind (CMD-F Hackathon)\n\nMarch 8-9th, 2025, 24 hour hackathon\nWinner of “Social Track” in a 24 hour hackathon, Won 3rd place overall, with 50+ projects and 200+ participants\nPresented work to 7 judges individually, and in the final round presented in front of the entire hackathon community.\nSee the project at: https://devpost.com/software/the-daily-grind"
   },
   {
     "objectID": "projects.html#easy",
     "href": "projects.html#easy",
-    "title": "My Projects",
+    "title": "Heidi's Portfolio",
     "section": "Easy EDA (Personal Project)",
     "text": "Easy EDA (Personal Project)\n\nPersonal project such that you can “automate” EDA for any given dataset.\nI hope to make an R package such that functions will quickly and easily create proper plots based on data types, for any and all columns. All code will be done with R initially, but will expand to Python too, for interactive visuals.\nLink to the Repo"
   },
   {
     "objectID": "projects.html#reproducible",
     "href": "projects.html#reproducible",
-    "title": "My Projects",
+    "title": "Heidi's Portfolio",
     "section": "DSCI 310 Group Project",
     "text": "DSCI 310 Group Project\n\nCreate a statistical analysis that incorporates these main ideas:\n\nData Pipelines\nMake and Makefiles\nDockerfiles\nCreating an R Package\n\nSee the repository here: https://github.com/DSCI-310-2025/dsci-310-group-7-data-dudes"
   },
   {
     "objectID": "projects.html#research",
     "href": "projects.html#research",
-    "title": "My Projects",
+    "title": "Heidi's Portfolio",
     "section": "Weather Extremes Research",
     "text": "Weather Extremes Research\n\nWorking at UBC from May to August 2024 under an URSA NSERC scholarship\nWorking under professors Harry Joe and Natalia Nolde, I found patterns and explanations for climate extremes.\nDealt with Canadian weather data, relating to floods, droughts, and wildfires using Python and R languages.\nCompleted EDA and used various statistical analyses to gain insight into weather patterns and time series analysis.\nAnalyzed many research papers, presented work weekly, and assisted both professors with various tasks.\nWill be publishing work on a public repository soon!"
   },
   {
     "objectID": "projects.html#datafest",
     "href": "projects.html#datafest",
-    "title": "My Projects",
+    "title": "Heidi's Portfolio",
     "section": "ASA DataFest",
     "text": "ASA DataFest\n\nA 48 hour hackathon in a team of 3\nCreated a fully reproducible project, with a clear statistical analysis\nCreated a dashboard, demonstration video, presentation using quarto, and analysis using a bayesian model\nProject topic and workcan only be revealed after May 3, 2025\nInfo about ASA DataFest: https://ww2.amstat.org/education/datafest/\n\n\n\nNOTICE!\nPlease know that I am still updating this website… It will be finished soon :)"
   },
