@@ -1,14 +1,13 @@
 ---
-title: "My Projects"
+# title: "My Projects"
 toc: true
 format:
   html:
     css: styles.css
 ---
+<div class="centered-title">My Projects</div>
 
-This page will contain info about all my projects that I have done!
-
-Outline:
+Here is an outline of projects I am showcasing on this page:
 
 * [Statistics Capstone Project](#capstone)
 * [The Daily Grind (CMD-F Hackathon)](#cmdf)
