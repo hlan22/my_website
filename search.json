@@ -49,6 +49,20 @@
     "text": "ASA DataFest\n\nA 48 hour hackathon in a team of 3\nCreated a fully reproducible project, with a clear statistical analysis\nCreated a dashboard, demonstration video, presentation using quarto, and analysis using a bayesian model\nProject topic and workcan only be revealed after May 3, 2025\nInfo about ASA DataFest: https://ww2.amstat.org/education/datafest/\n\n\n\nNOTICE!\nPlease know that I am still updating this website… It will be finished soon :)"
   },
   {
+    "objectID": "additional_pages/website_info.html",
+    "href": "additional_pages/website_info.html",
+    "title": "All About Websites!",
+    "section": "",
+    "text": "This is my first website, so here I will talk about important info I learn here!\n\nFor basic information on Quarto websites I started with: https://quarto.org/docs/websites.\n\nAny special customization that I do, I hope to outline here as a guide to making your own!\n\nMarkdown tips\n\nTo receive the outline shown on the right-hand side of this page, specify in the YAML header the following: toc: true.\n\n\n\nStyling and Rendering\n\nCreate a styles.css file (in the same directory as your index.qmd file) to create custom HTML styling.\n\nFor example, the way I created the purple box shown at the bottom of this page is done by putting the following in the styles.css file:\n\n\n.purplebox {\n    background-color: #e3dfff; /* Light Purple */\n    border: 3px solid #7a5fa3; /* Dark Purple */\n    color: #3d236f; /* Text Color */\n    padding: 10px;\n    border-radius: 8px;\n    text-align: center;\n    font-weight: bold;\n    font-family: sans-serif;\n  }\n\nWhich you can then execute by putting this in your document:\n\n:::: purplebox\n::: center\n**NOTICE!**\\\nPlease know that I am still updating this website... I hope to finish it soon :)\n:::\n::::\n\nYou can create a dropdown menu by doing the following HTML code:\n\n&lt;details&gt;\n&lt;summary&gt;Dropdown title&lt;/summary&gt;\nContents you want inside the dropdown menu\n&lt;/details&gt; \nWhich looks like:\n\n\nDropdown title\n\nContents you want inside the dropdown menu\n\n\n\nNOTICE!\nPlease know that I am still updating this website… I hope to finish it soon :)"
+  },
+  {
+    "objectID": "additional_pages/courses.html",
+    "href": "additional_pages/courses.html",
+    "title": "Courses and Certifications",
+    "section": "",
+    "text": "Courses Taken At UBC\n\n\nData Science\n\nDSCI 310: Reproducible and Trustworthy Workflows\n\ndetails\n\nDSCI 320: Data Visualization\n\ndetails\n\n\n\n\nStatistics\n\nSTAT 443: Time Series and Forecastin\n\ndetails\n\n\n\n\nComputer Science\n\nCPSC 304\nCPSC 210\nCPSC 110\n\n\n\nMath\n\nMATH 101\nMATH 100\n\n\n\nBusiness\n\nCOMR 398\n\nAn organization’s ultimate success depends on how efficiently and effectively it executes its strategic goals. This requires a detailed understanding of the processes used to produce and deliver goods and/or services to customers including:\n\nprocess analysis\nqueuing systems\nproject management\ninventory management\nsupply chain management\n\nUpon successful completion of this course, students will have the managerial tools needed to understand and articulate the impact of an organization’s business processes, and the ability to analyze and continuously improve these business processes.\n\n\n\n\nOther Courses\n\n\n\n\nCertifications\n\nResearch Ethics"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Heidi's Portfolio",
@@ -74,6 +88,27 @@
     "href": "index.html#guide-to-other-pages",
     "title": "Heidi's Portfolio",
     "section": "Guide to Other Pages",
-    "text": "Guide to Other Pages\n\nHome\n\nIntroduction to me, my general interests, and current events going on related to my career in my life.\n\nMy Projects\n\nTalks about my current and previous projects that I am proud of."
+    "text": "Guide to Other Pages\n\nHome\n\nIntroduction to me, and my interests!\n\nMy Projects\n\nMy current and previous projects that I am proud of!\n\nMore pages coming soon!"
+  },
+  {
+    "objectID": "additional_pages/current_events.html",
+    "href": "additional_pages/current_events.html",
+    "title": "Current Events",
+    "section": "",
+    "text": "Come see my STAT 450 capstone project poster board presentation!\n\n\n\nI participated in the ASA DataFest, a 48 hour data science hackathon!\n\n\n\nCMD-F 2025 Hackathon Finalist: 3rd Place\n\nWinner of “Social” category, and then received third place out of all the categories combined\nWinners received $200 and their project displayed on the cmd-f website (not uploaded yet).\n\n\n\n\nNOTICE!\nPlease know that I am still updating this website… I hope to finish it soon :)"
+  },
+  {
+    "objectID": "additional_pages/current_events.html#current-events",
+    "href": "additional_pages/current_events.html#current-events",
+    "title": "Current Events",
+    "section": "",
+    "text": "Come see my STAT 450 capstone project poster board presentation!\n\n\n\nI participated in the ASA DataFest, a 48 hour data science hackathon!\n\n\n\nCMD-F 2025 Hackathon Finalist: 3rd Place\n\nWinner of “Social” category, and then received third place out of all the categories combined\nWinners received $200 and their project displayed on the cmd-f website (not uploaded yet).\n\n\n\n\nNOTICE!\nPlease know that I am still updating this website… I hope to finish it soon :)"
+  },
+  {
+    "objectID": "additional_pages/visualizations.html",
+    "href": "additional_pages/visualizations.html",
+    "title": "My Visualizations",
+    "section": "",
+    "text": "This page will showcase different visualizations I have created and am proud of!\n\n\nNOTICE!\nPlease know that I am still updating this website… I hope to finish it soon :)"
   }
 ]
