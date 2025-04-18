@@ -11,11 +11,9 @@
 .Rprofile
 *.Rproj
 
-# clean up the repo
+# render from gh-pages
+docs/
 _site/
 _site
 *_files/
-
-# personal images
-# outputs/*
 
