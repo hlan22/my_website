@@ -1,5 +1,5 @@
 ---
-title: "Courses and Certifications"
+title: "Courses"
 toc: true
 # title-block-banner: true # Puts "Courses and Certifications" in blue banner
 format:
@@ -25,7 +25,7 @@ DSCI 320: Data Visualization
 <details>
 <summary>Statistics</summary>
 
-STAT 443: Time Series and Forecastin
+STAT 443: Time Series and Forecasting
 
 * details
 
@@ -69,7 +69,3 @@ COMR 398
 <summary>Other Courses</summary>
 
 </details> 
-
-### Certifications
-
-* Research Ethics

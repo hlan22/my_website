@@ -1,0 +1,73 @@
+---
+# title: "certifications"
+toc: true
+format:
+  html:
+    css: styles.css
+---
+
+<div class="centered-title">My Certifications</div>
+
+# Lakehouse Architecture with Databricks
+
+* Course ID: E-VP9791
+* Completed 5/5/2025
+* Certificate of Completion:
+
+![Get Started With Lakehouse Architecture](../outputs/databricks_certificate.png)
+
+
+<details>
+<summary>Additional Information </summary>
+
+<!--See https://customer-academy.databricks.com/learn/mycourses to view the course-->
+
+* See the course here: <https://www.databricks.com/learn/training/get-started-lakehouse-architecture#data-video>
+* Learning Objectives:
+
+> Describe the available compute options for workloads performed on the databricks data intelligence platform
+
+> List the products and features databricks offers for different data-centric needs within the databricks platform
+
+> Navigate the databricks workspace UI
+
+> Develop an agreed upon set of terminology and concepts for discussing Lakehouse Architecture
+
+> Define the framework of a modern data and AI platform
+
+> Explain the range of functions, capabilities, and use cases for data lakehouses within enterprise businesses.
+
+> Describe the rules that make up the guiding philosophy behind a data lakehouse architecture
+
+> Use the guiding princples of the lakehouse architecture to verify that your organizations data strategy aligns with the vision of the Databricks Data Intelligence Platform.
+
+> Identify the componenets of a lakehouse architecture by reviewing available reference architecture for your given cloud implementation.
+
+> Differentiate between the different roles and responsibilities of Databricks Data Intelligence platform features and products and those provided by the cloud service provider in a lakehouse architecture.
+
+> Describe the well-architected framework adopted by the three largest cloud service providers.
+
+> Explain how Databricks has adapted and built upon the cloud well-architected framework for the well-architected lakehouse framework.
+
+> List the seven pillars of the well-architected lakehouse framework.
+
+</details>
+
+
+# Research Ethics
+
+* Completed 12/1/2025
+* Certificate of Completion:
+
+![Ethical Conduct for Research Involving Humans](../outputs/tcps2_core_certificate.png)
+
+# Additional Courses
+
+* [Get started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
+
+* [Get started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
+
+* [Implement a data engineering solution with Azure Databricks](https://learn.microsoft.com/en-us/training/paths/azure-databricks-data-engineer/)
+
+* [Implement Generative AI engineering with Azure Databricks](https://learn.microsoft.com/en-us/training/paths/implement-generative-ai-engineering-azure-databricks/)
+
