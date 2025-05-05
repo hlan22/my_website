@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hlan22.github.io/my_website/projects.html</loc>
-    <lastmod>2025-04-18T05:33:42.103Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hlan22.github.io/my_website/additional_pages/website_info.html</loc>
-    <lastmod>2025-04-18T05:33:42.095Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hlan22.github.io/my_website/additional_pages/courses.html</loc>
-    <lastmod>2025-04-18T05:33:42.095Z</lastmod>
-  </url>
-  <url>
     <loc>https://hlan22.github.io/my_website/index.html</loc>
-    <lastmod>2025-04-18T05:33:42.095Z</lastmod>
+    <lastmod>2025-05-05T22:11:10.125Z</lastmod>
   </url>
   <url>
-    <loc>https://hlan22.github.io/my_website/additional_pages/current_events.html</loc>
-    <lastmod>2025-04-18T05:33:42.095Z</lastmod>
+    <loc>https://hlan22.github.io/my_website/pages/website_info.html</loc>
+    <lastmod>2025-05-05T22:11:10.141Z</lastmod>
   </url>
   <url>
-    <loc>https://hlan22.github.io/my_website/additional_pages/visualizations.html</loc>
-    <lastmod>2025-04-18T05:33:42.095Z</lastmod>
+    <loc>https://hlan22.github.io/my_website/pages/certifications.html</loc>
+    <lastmod>2025-05-05T22:11:10.141Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hlan22.github.io/my_website/pages/current_events.html</loc>
+    <lastmod>2025-05-05T22:11:10.141Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hlan22.github.io/my_website/pages/visualizations.html</loc>
+    <lastmod>2025-05-05T22:11:10.141Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hlan22.github.io/my_website/pages/projects.html</loc>
+    <lastmod>2025-05-05T22:11:10.141Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hlan22.github.io/my_website/pages/courses.html</loc>
+    <lastmod>2025-05-05T22:11:10.141Z</lastmod>
   </url>
 </urlset>
