@@ -6,9 +6,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: projects.qmd
-        text: My Projects
+        text: "Home"
+      - href: pages/projects.qmd
+        text: "Projects"
+      - href: pages/certifications.qmd
+        text: "Certifications"
 
 format:
   html:
