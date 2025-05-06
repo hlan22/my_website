@@ -26,7 +26,7 @@ Here is an outline of projects I am showcasing on this page:
 * Learned about complications with study design, model selection, and effective statistical communication
 * See our poster we presented in a [poster board session](https://www.stat.ubc.ca/poster-session-stat-450-2):
 
-![STAT 450 Poster Board](../outputs/microshunt_poster_board.png)
+![STAT 450 Poster Board](../outputs/microshunt_poster_board.png){#img-poster width=1000%}
 
 ---
 
@@ -73,10 +73,10 @@ Here is an outline of projects I am showcasing on this page:
 
 # ASA DataFest {#datafest}
 
-* A 48 hour hackathon in a team of 3
+* A 48 hour Hackathon in a team of 3
 * Created a fully reproducible project, with a clear statistical analysis
 * Created a dashboard, demonstration video, presentation using quarto, and analysis using a bayesian model
-* Project topic and workcan only be revealed after May 7, 2025
+* Project topic and work can only be revealed after May 7, 2025
 * Info about ASA DataFest: <https://ww2.amstat.org/education/datafest/>
 
 

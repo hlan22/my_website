@@ -33,7 +33,7 @@ Here is my contact information:
 </div>
 :::
 
-
+<!--
 ## Guide to Other Pages
 
 * [Home](index.html)
@@ -41,3 +41,4 @@ Here is my contact information:
 * [My Projects](projects.html)
   * My current and previous projects that I am proud of!
 * More pages coming soon!
+-->

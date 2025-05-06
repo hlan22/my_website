@@ -14,7 +14,7 @@ format:
 * Completed 5/5/2025
 * Certificate of Completion:
 
-![Get Started With Lakehouse Architecture](../outputs/databricks_certificate.png)
+![Get Started With Lakehouse Architecture](../outputs/databricks_certificate.png){#img-db-cert width=50%}
 
 
 <details>
@@ -59,7 +59,7 @@ format:
 * Completed 12/1/2025
 * Certificate of Completion:
 
-![Ethical Conduct for Research Involving Humans](../outputs/tcps2_core_certificate.png)
+![Ethical Conduct for Research Involving Humans](../outputs/tcps2_core_certificate.png){#img-tcps-cert width=50%}
 
 # Additional Courses
 
