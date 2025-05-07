@@ -11,34 +11,20 @@ format:
 <div>
 ## About Me
 
-Hello! 
+Hi, I'm Heidi! 
 
-I'm Heidi, a BSc. student at UBC, graduating this May!
+I am BSc. student at UBC, graduating this May! I have a major in statistics and a minor in data science.
 
-I am majoring in statistics and have a minor in data science.
+My interests involve consulting, data visualization, actuarial science, and data engineering. 
 
-My interests involve consulting, data visualization, actuarial science, and data engineering. Please feel free to take a look through my website to get a sense of who I am and what I like to do!
-
+Please take a look through my website to learn more!
 
 ## Contact
-
-Feel free to reach out to if you have any questions!
-
-Here is my contact information:
 
 -   **GitHub**: <https://github.com/hlan22>
 -   **LinkedIn**: <https://www.linkedin.com/in/heidilantz/>
 -   **Email**: [heidilantz22\@gmail.com](mailto:heidilantz22@gmail.com){.email}
 
+Feel free to reach out if you have any questions.
 </div>
 :::
-
-<!--
-## Guide to Other Pages
-
-* [Home](index.html)
-  * Introduction to me, and my interests!
-* [My Projects](projects.html)
-  * My current and previous projects that I am proud of!
-* More pages coming soon!
--->

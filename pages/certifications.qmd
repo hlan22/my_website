@@ -61,7 +61,7 @@ format:
 
 ![Ethical Conduct for Research Involving Humans](../outputs/tcps2_core_certificate.png){#img-tcps-cert width=50%}
 
-# Additional Courses
+# Additional Courses (tied with Certifications)
 
 * [Get started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
 
