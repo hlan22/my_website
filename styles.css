@@ -29,6 +29,15 @@
   margin-top: 2rem;
 }
 
+
+.image-text-container .image-side {
+  flex: 0 0 40%;
+}
+
+.image-text-container .text-side {
+  flex: 0 0 60%;
+}
+
 .profile-pic {
   width: 350px; 
   height: 600px;
