@@ -4,23 +4,33 @@ toc: true
 format:
   html:
     css: styles.css
+    code-overflow: wrap   # wraps the code around instead of scrolling
+    embed-resources: true # images and such
+    code-background: true # makes sure there is a different background for code blocks
+    code-fold: true       # "hides" code in a summary box above output
+    code-summary: "Show Code"  # renames the summary box title
+    code-tools: true      # makes a menu to show all code select at once
 ---
 
 <div class="centered-title">My Certifications</div>
 
 # Lakehouse Architecture with Databricks
 
+<!--See https://customer-academy.databricks.com/learn/mycourses to view the course-->
+
 * Course ID: E-VP9791
 * Completed 5/5/2025
-* Certificate of Completion:
 
-![Get Started With Lakehouse Architecture](../outputs/databricks_certificate.png){#img-db-cert width=50%}
+
+::: {#fig-lakehouse height=60%}
+![](../outputs/databricks_certificate.png)
+
+Certificate of Completion: Get Started With Lakehouse Architecture
+:::
 
 
 <details>
-<summary>Additional Information </summary>
-
-<!--See https://customer-academy.databricks.com/learn/mycourses to view the course-->
+<summary>Course Topics and Objectives</summary>
 
 * See the course here: <https://www.databricks.com/learn/training/get-started-lakehouse-architecture#data-video>
 * Learning Objectives:
@@ -57,11 +67,16 @@ format:
 # Research Ethics
 
 * Completed 12/1/2025
-* Certificate of Completion:
 
-![Ethical Conduct for Research Involving Humans](../outputs/tcps2_core_certificate.png){#img-tcps-cert width=50%}
+::: {#fig-research height=60%}
+![](../outputs/tcps2_core_certificate.png)
 
-# Additional Courses (tied with Certifications)
+Certificate of Completion: Ethical Conduct for Research Involving Humans
+:::
+
+
+
+# Additional Courses taken (without Certificate)
 
 * [Get started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
 
@@ -71,3 +86,6 @@ format:
 
 * [Implement Generative AI engineering with Azure Databricks](https://learn.microsoft.com/en-us/training/paths/implement-generative-ai-engineering-azure-databricks/)
 
+<!-- 
+I hope you enjoyed looking at the source code! ;)
+-->

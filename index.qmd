@@ -6,7 +6,13 @@ format:
 ---
 <div class="centered-title">Heidi Lantz</div>
 ::: {.image-text-container}
-<img src="outputs/norway_image.jpg" class="profile-pic"/>
+
+::: {#fig-profile-picture}
+
+![](outputs/norway_image.jpg){width=70% height=70%}
+
+Visiting the *Gol Stave Church* in **Oslo, Norway** during my exchange semester!
+:::
 
 <div>
 ## About Me
