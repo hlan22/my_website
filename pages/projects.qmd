@@ -94,7 +94,7 @@ See the presentation at [this link](https://hlan22.github.io/asa_datafest_2025/#
 
 ---
 
-# 6. Wordplayr - An R Package {#word}
+# 6. `wordplayr` - An R Package {#word}
 
 * The aim of `wordplay` is to learn more about your favorite list of words! Learn about metrics such as length, most frequent starting letter, and much more with ease!
 * A fully functioning R package with clear `README.Rmd` instructions on how to install and use, along with a vignette, website, and Roxygen comments to help guide the user.
@@ -107,10 +107,26 @@ See the presentation at [this link](https://hlan22.github.io/asa_datafest_2025/#
 A preview of the [package website](https://hlan22.github.io/wordplay/)
 :::
 
+---
+
+# 7. Python Dashboard & Data Visualization
+
+
+#### DSCI 320 Dashboard
+
+With two group members, we created the following dashboard where we had to create inventive visualizations to explain 4 questions. We looked into trends for attendance at libraries in the San Francisco area. The dashboard is interactive and has toggle options that don't show up in the saved image.
+
+::: {#fig-dsci-dashboard height=60%}
+
+![](../outputs/dashboard_dsci320.png)
+
+Dashboard for a data visualization course (DSCI 320)
+
+:::
 
 ---
 
-# 7. Easy EDA - A Python Package (In development) {#easy}
+# 8. `easyEDA` - A Python Package (In development) {#easy}
 
 * A Python Package (still in progress) such that you can “automate” EDA for any given dataset. 
 * Functions will quickly and easily create proper plots based on data types, for any and all columns. 
