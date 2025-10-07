@@ -11,26 +11,28 @@ format:
 
 ![](outputs/norway_image.jpg){width=70% height=70%}
 
-Visiting the *Gol Stave Church* in **Oslo, Norway** during my exchange semester!
+Visiting the *Gol Stave Church* <br>
+during my semester at the **University of Oslo**!
 :::
 
 <div>
 ## About Me
 
-Hi, I'm Heidi! 
+Hello, I'm Heidi! 
 
-I am BSc. student at UBC, graduating this May! I have a major in statistics and a minor in data science.
+I work as a Data Modernization Consultant, and I am developing my skills to become a data engineer!
 
-My interests involve consulting, data visualization, actuarial science, and data engineering. 
+I recently graduated with a BSc. at the University of British Columbia in Vancouver! I graduated with a major in statistics and a minor in data science.
 
-Please take a look through my website to learn more!
+My interests involve data visualization, Microsoft Azure, SQL, AI, and so much more. 
+Please take a look through my website to learn more about me!
 
 ## Contact
+Please feel free to reach out if you have any questions.
 
 -   **GitHub**: <https://github.com/hlan22>
 -   **LinkedIn**: <https://www.linkedin.com/in/heidilantz/>
 -   **Email**: [heidilantz22\@gmail.com](mailto:heidilantz22@gmail.com){.email}
 
-Feel free to reach out if you have any questions.
 </div>
 :::
