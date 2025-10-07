@@ -1,10 +1,59 @@
 [
   {
+    "objectID": "pages/projects.html",
+    "href": "pages/projects.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\nMy Projects\n\n\n\n1. Student Statistical Consultant (Capstone Project)\n\nWith guidance from Dr. Rodolfo Lourenzutti, I worked for a client analyzing changes in glaucoma eye surgery in an apprentice type of job.\nReal client work, regular meetings with the professor presenting work, poster board and oral presentations\nProduced reports, code, and worked directly for the client using the R programming language and GitHub\nLearned about complications with study design, model selection, and effective statistical communication\n\n\n\n\n\n\n\nFigure 1: STAT 450 Poster Board. See more about the Poster Session here.\n\n\n\n\n\n\n2. The Daily Grind (CMD-F Hackathon)\n\nA 24 hour Computer Science Hackathon on the weekend of March 8-9th, 2025\nWinners of the “Social Track” for our coffee-chat conversation starter using AI\nWon 3rd place overall, with 50+ projects and 200+ participants\nPresented work to 7 judges individually, and in the final round presented in front of the entire Hackathon community (over 250+ people).\nFor more info, see our Devpost.\n\n\n\n\n\n\n\nFigure 2: Preview of the conversation starter app we built! For more info, see our devpost. This is a popup window where you can add additional information to help create useful conversation topics.\n\n\n\n\n\n\n3. DSCI 310: Reproducible and Trustworthy Workflows\nAn analysis and package that is a fully reproducible and robust data analysis project, comprised of:\n\nA well documented and modularized software package and scripts written in R,\nA data analysis pipeline automated with GNU Make and Makefile’s,\nA reproducible report powered by R Markdown and Quarto,\nA containerized computational environment created and made shareable by Docker, and\nA remote version control repository on GitHub for project collaboration and sharing,\nAs well as automation of test suite execution and documentation and software deployment.\n\nFor my group’s work, see the R package repository here and the analysis repository here.\n\n\n\n\n\n\nFigure 3: Screenshot of Package Repository. See the package here and the analysis here.\n\n\n\n\n\n\n4. Weather Extremes Research\n\nWorking at UBC from May to August 2024 under an URSA NSERC scholarship\nFinding patterns and explanations for climate extremes. Dealt with Canadian weather data, relating to floods, droughts, and wildfires using Python and R languages. Completed EDA and used various statistical analyses to gain insight into weather patterns and time series analysis.\nAnalyzed many research papers, presented work weekly, and assisted both professor Harry Joe and professor Natalia Nolde with various tasks.\nWork will be published on a public repository soon!\n\n\n\n\n5. ASA DataFest\n\nA 48 hour Hackathon in a team of 3 for the American Statistical Association.\nCreated a fully reproducible project, with EDA and a complex statistical analysis\nCreated a dashboard, demonstration video, presentation using quarto, and analysis using a Bayesian model\nSee the repository: https://github.com/hlan22/asa_datafest_2025\n\n\n\n\n\n\n\nASA Datafest Presentation\n\n\n\n\nFigure 4: See the presentation at this link.\n\n\n\n\n\n\n6. wordplayr - An R Package\n\nThe aim of wordplay is to learn more about your favorite list of words! Learn about metrics such as length, most frequent starting letter, and much more with ease!\nA fully functioning R package with clear README.Rmd instructions on how to install and use, along with a vignette, website, and Roxygen comments to help guide the user.\nI have built up a ‘list of favorite words’ over the years and wanting to learn more about them is what inspired me to make this package!\nSee the R package repository and the package website.\n\n\n\n\n\n\n\nFigure 5: A preview of the package website\n\n\n\n\n\n\n7. Python Dashboard & Data Visualization\n\nDSCI 320 Dashboard\nWith two group members, we created the following dashboard where we had to create inventive visualizations to explain 4 questions. We looked into trends for attendance at libraries in the San Francisco area. The dashboard is interactive and has toggle options that don’t show up in the saved image.\n\n\n\n\n\n\nFigure 6: Dashboard for a data visualization course (DSCI 320)\n\n\n\n\n\n\n\n8. easyEDA - A Python Package (In development)\n\nA Python Package (still in progress) such that you can “automate” EDA for any given dataset.\nFunctions will quickly and easily create proper plots based on data types, for any and all columns.\nCode will be done with Python so that you can include interactive visuals, but will expand to R too.\nLink to the repository here"
+  },
+  {
+    "objectID": "pages/visualizations.html",
+    "href": "pages/visualizations.html",
+    "title": "My Visualizations",
+    "section": "",
+    "text": "This page will showcase different visualizations I have created and am proud of!\n\n\nNOTICE!\nPlease know that I am still updating this website… I hope to finish it soon :)"
+  },
+  {
+    "objectID": "pages/courses.html",
+    "href": "pages/courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Courses Taken At UBC\n\n\nData Science\n\nDSCI 310: Reproducible and Trustworthy Workflows\n\ndetails\n\nDSCI 320: Data Visualization\n\ndetails\n\n\n\n\nStatistics\n\nSTAT 443: Time Series and Forecasting\n\ndetails\n\n\n\n\nComputer Science\n\nCPSC 304\nCPSC 210\nCPSC 110\n\n\n\nMath\n\nMATH 101\nMATH 100\n\n\n\nBusiness\n\nCOMR 398\n\nAn organization’s ultimate success depends on how efficiently and effectively it executes its strategic goals. This requires a detailed understanding of the processes used to produce and deliver goods and/or services to customers including:\n\nprocess analysis\nqueuing systems\nproject management\ninventory management\nsupply chain management\n\nUpon successful completion of this course, students will have the managerial tools needed to understand and articulate the impact of an organization’s business processes, and the ability to analyze and continuously improve these business processes.\n\n\n\n\nOther Courses"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Heidi's Portfolio",
+    "section": "",
+    "text": "Heidi Lantz"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Heidi's Portfolio",
+    "section": "About Me",
+    "text": "About Me\nHello, I’m Heidi!\nI work as a Data Modernization Consultant, and I am developing my skills to become a data engineer!\nI recently graduated with a BSc. at the University of British Columbia in Vancouver! I graduated with a major in statistics and a minor in data science.\nMy interests involve data visualization, Microsoft Azure, SQL, AI, and so much more. Please take a look through my website to learn more about me!"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Heidi's Portfolio",
+    "section": "Contact",
+    "text": "Contact\nPlease feel free to reach out if you have any questions.\n\nGitHub: https://github.com/hlan22\nLinkedIn: https://www.linkedin.com/in/heidilantz/\nEmail: heidilantz22@gmail.com"
+  },
+  {
     "objectID": "pages/website_info.html",
     "href": "pages/website_info.html",
     "title": "All About Websites!",
     "section": "",
     "text": "This is my first website, so here I will talk about important info I learn here!\n\nFor basic information on Quarto websites I started with: https://quarto.org/docs/websites.\n\nAny special customization that I do, I hope to outline here as a guide to making your own!\n\nMarkdown tips\n\nTo receive the outline shown on the right-hand side of this page, specify in the YAML header the following: toc: true.\n\n\n\nStyling and Rendering\n\nCreate a styles.css file (in the same directory as your index.qmd file) to create custom HTML styling.\n\nFor example, the way I created the purple box shown at the bottom of this page is done by putting the following in the styles.css file:\n\n\n.purplebox {\n    background-color: #e3dfff; /* Light Purple */\n    border: 3px solid #7a5fa3; /* Dark Purple */\n    color: #3d236f; /* Text Color */\n    padding: 10px;\n    border-radius: 8px;\n    text-align: center;\n    font-weight: bold;\n    font-family: sans-serif;\n  }\n\nWhich you can then execute by putting this in your document:\n\n:::: purplebox\n::: center\n**NOTICE!**\\\nPlease know that I am still updating this website... I hope to finish it soon :)\n:::\n::::\n\nYou can create a dropdown menu by doing the following HTML code:\n\n&lt;details&gt;\n&lt;summary&gt;Dropdown title&lt;/summary&gt;\nContents you want inside the dropdown menu\n&lt;/details&gt; \nWhich looks like:\n\n\nDropdown title\n\nContents you want inside the dropdown menu\n\n\n\nNOTICE!\nPlease know that I am still updating this website… I hope to finish it soon :)"
+  },
+  {
+    "objectID": "pages/certifications.html",
+    "href": "pages/certifications.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\nMy Certifications\n\n\nLakehouse Architecture with Databricks\n\n\nCourse ID: E-VP9791\nCompleted 5/5/2025\n\n\n\n\n\n\n\nFigure 1: Certificate of Completion: Get Started With Lakehouse Architecture\n\n\n\n\n\nCourse Topics and Objectives\n\n\nSee the course here: https://www.databricks.com/learn/training/get-started-lakehouse-architecture#data-video\nLearning Objectives:\n\n\nDescribe the available compute options for workloads performed on the databricks data intelligence platform\n\n\nList the products and features databricks offers for different data-centric needs within the databricks platform\n\n\nNavigate the databricks workspace UI\n\n\nDevelop an agreed upon set of terminology and concepts for discussing Lakehouse Architecture\n\n\nDefine the framework of a modern data and AI platform\n\n\nExplain the range of functions, capabilities, and use cases for data lakehouses within enterprise businesses.\n\n\nDescribe the rules that make up the guiding philosophy behind a data lakehouse architecture\n\n\nUse the guiding princples of the lakehouse architecture to verify that your organizations data strategy aligns with the vision of the Databricks Data Intelligence Platform.\n\n\nIdentify the componenets of a lakehouse architecture by reviewing available reference architecture for your given cloud implementation.\n\n\nDifferentiate between the different roles and responsibilities of Databricks Data Intelligence platform features and products and those provided by the cloud service provider in a lakehouse architecture.\n\n\nDescribe the well-architected framework adopted by the three largest cloud service providers.\n\n\nExplain how Databricks has adapted and built upon the cloud well-architected framework for the well-architected lakehouse framework.\n\n\nList the seven pillars of the well-architected lakehouse framework.\n\n\n\n\nResearch Ethics\n\nCompleted 12/1/2025\n\n\n\n\n\n\n\nFigure 2: Certificate of Completion: Ethical Conduct for Research Involving Humans\n\n\n\n\n\nAdditional Courses taken (without Certificate)\n\nGet started with Azure DevOps\nGet started with Microsoft Fabric\nImplement a data engineering solution with Azure Databricks\nImplement Generative AI engineering with Azure Databricks"
   },
   {
     "objectID": "pages/current_events.html",
@@ -19,54 +68,5 @@
     "title": "Current Events",
     "section": "",
     "text": "Come see my STAT 450 capstone project poster board presentation!\n\n\n\nI participated in the ASA DataFest, a 48 hour data science hackathon!\n\n\n\nCMD-F 2025 Hackathon Finalist: 3rd Place\n\nWinner of “Social” category, and then received third place out of all the categories combined\nWinners received $200 and their project displayed on the cmd-f website (not uploaded yet).\n\n\n\n\nNOTICE!\nPlease know that I am still updating this website… I hope to finish it soon :)"
-  },
-  {
-    "objectID": "pages/certifications.html",
-    "href": "pages/certifications.html",
-    "title": "",
-    "section": "",
-    "text": "Code\n\n\n\n\n\nMy Certifications\n\n\nLakehouse Architecture with Databricks\n\n\nCourse ID: E-VP9791\nCompleted 5/5/2025\n\n\n\n\n\n\n\nFigure 1: Certificate of Completion: Get Started With Lakehouse Architecture\n\n\n\n\n\nCourse Topics and Objectives\n\n\nSee the course here: https://www.databricks.com/learn/training/get-started-lakehouse-architecture#data-video\nLearning Objectives:\n\n\nDescribe the available compute options for workloads performed on the databricks data intelligence platform\n\n\nList the products and features databricks offers for different data-centric needs within the databricks platform\n\n\nNavigate the databricks workspace UI\n\n\nDevelop an agreed upon set of terminology and concepts for discussing Lakehouse Architecture\n\n\nDefine the framework of a modern data and AI platform\n\n\nExplain the range of functions, capabilities, and use cases for data lakehouses within enterprise businesses.\n\n\nDescribe the rules that make up the guiding philosophy behind a data lakehouse architecture\n\n\nUse the guiding princples of the lakehouse architecture to verify that your organizations data strategy aligns with the vision of the Databricks Data Intelligence Platform.\n\n\nIdentify the componenets of a lakehouse architecture by reviewing available reference architecture for your given cloud implementation.\n\n\nDifferentiate between the different roles and responsibilities of Databricks Data Intelligence platform features and products and those provided by the cloud service provider in a lakehouse architecture.\n\n\nDescribe the well-architected framework adopted by the three largest cloud service providers.\n\n\nExplain how Databricks has adapted and built upon the cloud well-architected framework for the well-architected lakehouse framework.\n\n\nList the seven pillars of the well-architected lakehouse framework.\n\n\n\n\nResearch Ethics\n\nCompleted 12/1/2025\n\n\n\n\n\n\n\nFigure 2: Certificate of Completion: Ethical Conduct for Research Involving Humans\n\n\n\n\n\nAdditional Courses taken (without Certificate)\n\nGet started with Azure DevOps\nGet started with Microsoft Fabric\nImplement a data engineering solution with Azure Databricks\nImplement Generative AI engineering with Azure Databricks"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Heidi's Portfolio",
-    "section": "",
-    "text": "Heidi Lantz"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Heidi's Portfolio",
-    "section": "About Me",
-    "text": "About Me\nHi, I’m Heidi!\nI am BSc. student at UBC, graduating this May! I have a major in statistics and a minor in data science.\nMy interests involve consulting, data visualization, actuarial science, and data engineering.\nPlease take a look through my website to learn more!"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Heidi's Portfolio",
-    "section": "Contact",
-    "text": "Contact\n\nGitHub: https://github.com/hlan22\nLinkedIn: https://www.linkedin.com/in/heidilantz/\nEmail: heidilantz22@gmail.com\n\nFeel free to reach out if you have any questions."
-  },
-  {
-    "objectID": "pages/projects.html",
-    "href": "pages/projects.html",
-    "title": "",
-    "section": "",
-    "text": "Code\n\n\n\n\n\nMy Projects\n\n\n\n1. Student Statistical Consultant (Capstone Project)\n\nWith guidance from Dr. Rodolfo Lourenzutti, I worked for a client analyzing changes in glaucoma eye surgery in an apprentice type of job.\nReal client work, regular meetings with the professor presenting work, poster board and oral presentations\nProduced reports, code, and worked directly for the client using the R programming language and GitHub\nLearned about complications with study design, model selection, and effective statistical communication\n\n\n\n\n\n\n\nFigure 1: STAT 450 Poster Board. See more about the Poster Session here.\n\n\n\n\n\n\n2. The Daily Grind (CMD-F Hackathon)\n\nA 24 hour Computer Science Hackathon on the weekend of March 8-9th, 2025\nWinners of the “Social Track” for our coffee-chat conversation starter using AI\nWon 3rd place overall, with 50+ projects and 200+ participants\nPresented work to 7 judges individually, and in the final round presented in front of the entire Hackathon community (over 250+ people).\nFor more info, see our Devpost.\n\n\n\n\n\n\n\nFigure 2: Preview of the conversation starter app we built! For more info, see our devpost. This is a popup window where you can add additional information to help create useful conversation topics.\n\n\n\n\n\n\n3. DSCI 310: Reproducible and Trustworthy Workflows\nAn analysis and package that is a fully reproducible and robust data analysis project, comprised of:\n\nA well documented and modularized software package and scripts written in R,\nA data analysis pipeline automated with GNU Make and Makefile’s,\nA reproducible report powered by R Markdown and Quarto,\nA containerized computational environment created and made shareable by Docker, and\nA remote version control repository on GitHub for project collaboration and sharing,\nAs well as automation of test suite execution and documentation and software deployment.\n\nFor my group’s work, see the R package repository here and the analysis repository here.\n\n\n\n\n\n\nFigure 3: Screenshot of Package Repository. See the package here and the analysis here.\n\n\n\n\n\n\n4. Weather Extremes Research\n\nWorking at UBC from May to August 2024 under an URSA NSERC scholarship\nFinding patterns and explanations for climate extremes. Dealt with Canadian weather data, relating to floods, droughts, and wildfires using Python and R languages. Completed EDA and used various statistical analyses to gain insight into weather patterns and time series analysis.\nAnalyzed many research papers, presented work weekly, and assisted both professor Harry Joe and professor Natalia Nolde with various tasks.\nWork will be published on a public repository soon!\n\n\n\n\n5. ASA DataFest\n\nA 48 hour Hackathon in a team of 3 for the American Statistical Association.\nCreated a fully reproducible project, with EDA and a complex statistical analysis\nCreated a dashboard, demonstration video, presentation using quarto, and analysis using a Bayesian model\nSee the repository: https://github.com/hlan22/asa_datafest_2025\n\n\n\n\n\n\n\nASA Datafest Presentation\n\n\n\n\nFigure 4: See the presentation at this link.\n\n\n\n\n\n\n6. wordplayr - An R Package\n\nThe aim of wordplay is to learn more about your favorite list of words! Learn about metrics such as length, most frequent starting letter, and much more with ease!\nA fully functioning R package with clear README.Rmd instructions on how to install and use, along with a vignette, website, and Roxygen comments to help guide the user.\nI have built up a ‘list of favorite words’ over the years and wanting to learn more about them is what inspired me to make this package!\nSee the R package repository and the package website.\n\n\n\n\n\n\n\nFigure 5: A preview of the package website\n\n\n\n\n\n\n7. Python Dashboard & Data Visualization\n\nDSCI 320 Dashboard\nWith two group members, we created the following dashboard where we had to create inventive visualizations to explain 4 questions. We looked into trends for attendance at libraries in the San Francisco area. The dashboard is interactive and has toggle options that don’t show up in the saved image.\n\n\n\n\n\n\nFigure 6: Dashboard for a data visualization course (DSCI 320)\n\n\n\n\n\n\n\n8. easyEDA - A Python Package (In development)\n\nA Python Package (still in progress) such that you can “automate” EDA for any given dataset.\nFunctions will quickly and easily create proper plots based on data types, for any and all columns.\nCode will be done with Python so that you can include interactive visuals, but will expand to R too.\nLink to the repository here"
-  },
-  {
-    "objectID": "pages/courses.html",
-    "href": "pages/courses.html",
-    "title": "Courses",
-    "section": "",
-    "text": "Courses Taken At UBC\n\n\nData Science\n\nDSCI 310: Reproducible and Trustworthy Workflows\n\ndetails\n\nDSCI 320: Data Visualization\n\ndetails\n\n\n\n\nStatistics\n\nSTAT 443: Time Series and Forecasting\n\ndetails\n\n\n\n\nComputer Science\n\nCPSC 304\nCPSC 210\nCPSC 110\n\n\n\nMath\n\nMATH 101\nMATH 100\n\n\n\nBusiness\n\nCOMR 398\n\nAn organization’s ultimate success depends on how efficiently and effectively it executes its strategic goals. This requires a detailed understanding of the processes used to produce and deliver goods and/or services to customers including:\n\nprocess analysis\nqueuing systems\nproject management\ninventory management\nsupply chain management\n\nUpon successful completion of this course, students will have the managerial tools needed to understand and articulate the impact of an organization’s business processes, and the ability to analyze and continuously improve these business processes.\n\n\n\n\nOther Courses"
-  },
-  {
-    "objectID": "pages/visualizations.html",
-    "href": "pages/visualizations.html",
-    "title": "My Visualizations",
-    "section": "",
-    "text": "This page will showcase different visualizations I have created and am proud of!\n\n\nNOTICE!\nPlease know that I am still updating this website… I hope to finish it soon :)"
   }
 ]

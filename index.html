@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.31">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2d2c3c1dc8fcebd689918bbad00a5354.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-960d9d362f81d399278ec3e29b622b37.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,6 +80,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Heidi’s Portfolio</span>
     </a>
@@ -131,26 +134,26 @@ Heidi Lantz
 <img src="outputs/norway_image.jpg" style="width:70.0%;height:70.0%" class="figure-img">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-profile-picture-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1: Visiting the <em>Gol Stave Church</em> in <strong>Oslo, Norway</strong> during my exchange semester!
+Figure&nbsp;1: Visiting the <em>Gol Stave Church</em> <br> during my semester at the <strong>University of Oslo</strong>!
 </figcaption>
 </figure>
 </div>
 <div>
 <section id="about-me" class="level2">
 <h2 class="anchored" data-anchor-id="about-me">About Me</h2>
-<p>Hi, I’m Heidi!</p>
-<p>I am BSc. student at UBC, graduating this May! I have a major in statistics and a minor in data science.</p>
-<p>My interests involve consulting, data visualization, actuarial science, and data engineering.</p>
-<p>Please take a look through my website to learn more!</p>
+<p>Hello, I’m Heidi!</p>
+<p>I work as a Data Modernization Consultant, and I am developing my skills to become a data engineer!</p>
+<p>I recently graduated with a BSc. at the University of British Columbia in Vancouver! I graduated with a major in statistics and a minor in data science.</p>
+<p>My interests involve data visualization, Microsoft Azure, SQL, AI, and so much more. Please take a look through my website to learn more about me!</p>
 </section>
 <section id="contact" class="level2">
 <h2 class="anchored" data-anchor-id="contact">Contact</h2>
+<p>Please feel free to reach out if you have any questions.</p>
 <ul>
 <li><strong>GitHub</strong>: <a href="https://github.com/hlan22" class="uri">https://github.com/hlan22</a></li>
 <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/heidilantz/" class="uri">https://www.linkedin.com/in/heidilantz/</a></li>
 <li><strong>Email</strong>: <a href="mailto:heidilantz22@gmail.com" class="email">heidilantz22@gmail.com</a></li>
 </ul>
-<p>Feel free to reach out if you have any questions.</p>
 </section>
 </div>
 </div>
@@ -209,13 +212,14 @@ Figure&nbsp;1: Visiting the <em>Gol Stave Church</em> in <strong>Oslo, Norway</s
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
