@@ -14,17 +14,14 @@ format:
 
 <div class="centered-title">My Certifications & Certificates</div>
 
-::: {.callout .dropdown}
-### My Certifications
+<details class="callout callout-style-simple clean-dropdown">
+  <summary>My Certifications</summary>
+  
+  <h2>AZ-900: Microsoft Azure Fundamentals</h2>
+  <h2>CDP101: Consultant Development Program</h2>
+</details>
 
-# AZ-900: Microsoft Azure Fundamentals
-
-# CDP101: Consultant Development Program
-
-
-:::
-
-
+---
 
 ::: {.callout .dropdown}
 ### My Course Certificates
