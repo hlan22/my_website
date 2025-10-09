@@ -10,7 +10,7 @@ format:
 
 ::: {#fig-profile-picture}
 
-![](outputs/norway_image.jpg){width=70% height=70%}
+![](outputs/norway_image.jpg){width=70% height=70% .lightbox}
 
 Visiting the *Gol Stave Church* <br>
 during my semester at the **University of Oslo**!
