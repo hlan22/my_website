@@ -1,16 +1,18 @@
 ---
-# title: "My Projects"
-toc: true
+# title: "My Projects"          # commented out since personalized div title set below
+toc: true                       # creates a table of contents on the side
 format:
   html:
-    css: styles.css
-    code-overflow: wrap   # wraps the code around instead of scrolling
-    embed-resources: true # images and such
-    code-background: true # makes sure there is a different background for code blocks
-    code-fold: true       # "hides" code in a summary box above output
-    code-summary: "Show Code"  # renames the summary box title
-    code-tools: true      # makes a menu to show all code select at once
+    css: styles.css             # includes styling from css file
+    code-overflow: wrap         # wraps the code, instead of scrolling for code blocks
+    embed-resources: true       # embeds images/css/etc. into html file
+    code-background: true       # Has a different background for code blocks
+    code-fold: true             # "hides" code in a summary box above output
+    code-summary: "Show Code"   # renames the summary box title
+    code-tools: true            # makes a menu to show all code select at once
+lightbox: true                  # all images have englarged popup when you click on them - see: https://quarto.org/docs/output-formats/html-lightbox-figures.html
 ---
+
 <div class="centered-title">My Projects</div>
 
 ---
@@ -26,17 +28,21 @@ format:
 
 ![](../outputs/microshunt_poster_board.png)
 
-STAT 450 Poster Board. See more about the Poster Session [here](https://www.stat.ubc.ca/poster-session-stat-450-2).
+STAT 450 Poster Board: Presenting our Findings!
 
 :::
 
+<!-- 
+They took the link down: See more about the Poster Session [here](https://www.stat.ubc.ca/poster-session-stat-450-2) 
+I think it would be good to include
+-->
 
 ---
 
-# 2. [The Daily Grind (CMD-F Hackathon)](https://devpost.com/software/the-daily-grind) {#cmdf}
+# 2. [The Daily Grind (CMD-F Hackathon)](https://devpost.com/software/the-daily-grind){target="_blank"} {#cmdf}
 
 * A 24 hour Computer Science Hackathon on the weekend of March 8-9th, 2025
-* **Winners of the “Social Track”** for our coffee-chat conversation starter using AI
+* **Winners of the "Social Track"** for our coffee-chat conversation starter using AI
 * Won **3rd place overall**, with 50+ projects and 200+ participants
 * Presented work to 7 judges individually, and in the final round presented in front of the entire Hackathon community (over 250+ people).
 * For more info, see [our Devpost](https://devpost.com/software/the-daily-grind).
@@ -44,7 +50,7 @@ STAT 450 Poster Board. See more about the Poster Session [here](https://www.stat
 ::: {#fig-grind height=60%}
 ![](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/317/679/datas/gallery.jpg)(https://devpost.com/software/the-daily-grind)
 
-Preview of the conversation starter app we built! For more info, see [our devpost](https://devpost.com/software/the-daily-grind). This is a popup window where you can add additional information to help create useful conversation topics.
+Preview of the conversation starter app we built! For more info, see [our devpost](https://devpost.com/software/the-daily-grind){target="_blank"}. This is a popup window where you can add additional information to help create useful conversation topics.
 :::
 ---
 
@@ -59,12 +65,12 @@ An analysis and package that is a fully reproducible and robust data analysis pr
 * A remote version control repository on GitHub for project collaboration and sharing, 
 * As well as automation of **test suite execution and documentation** and software deployment.
 
-For my group's work, see the R package repository [here](https://hlan22.github.io/asa_datafest_2025/#/title-slide) and the analysis repository [here](https://github.com/DSCI-310-2025/dsci-310-group-7-data-dudes).
+For my group's work, see the R package repository [here](https://hlan22.github.io/asa_datafest_2025/#/title-slide){target="_blank"} and the analysis repository [here](https://github.com/DSCI-310-2025/dsci-310-group-7-data-dudes){target="_blank"}.
 
 ::: {#fig-drugage height=60%}
-[![](../outputs/drugage_package_image.png)](https://github.com/DSCI-310-2025/pkg.drugage)
+[![](../outputs/drugage_package_image.png)](https://github.com/DSCI-310-2025/pkg.drugage){target="_blank"}
 
-Screenshot of Package Repository. See the package [here](https://hlan22.github.io/asa_datafest_2025/#/title-slide) and the analysis [here](https://github.com/DSCI-310-2025/dsci-310-group-7-data-dudes).
+Screenshot of Package Repository. See the package [here](https://hlan22.github.io/asa_datafest_2025/#/title-slide){target="_blank"} and the analysis [here](https://github.com/DSCI-310-2025/dsci-310-group-7-data-dudes){target="_blank"}.
 :::
 
 ---
@@ -80,15 +86,15 @@ Screenshot of Package Repository. See the package [here](https://hlan22.github.i
 
 # 5. ASA DataFest {#datafest}
 
-* A **48 hour Hackathon** in a team of 3 for the [American Statistical Association](https://ww2.amstat.org/education/datafest/).
+* A **48 hour Hackathon** in a team of 3 for the [American Statistical Association](https://ww2.amstat.org/education/datafest/){target="_blank"}.
 * Created a fully reproducible project, with EDA and a complex statistical analysis
 * Created a dashboard, demonstration video, presentation using quarto, and analysis using a Bayesian model
-* See the repository: <https://github.com/hlan22/asa_datafest_2025>
+* See the repository at: [https://github.com/hlan22/asa_datafest_2025](https://github.com/hlan22/asa_datafest_2025){target="_blank"}
 
 ::: {#fig-market-results}
-[![ASA Datafest Presentation](https://hlan22.github.io/asa_datafest_2025/#/results-all-markets)](https://hlan22.github.io/asa_datafest_2025/#/results-all-markets)
+[![ASA Datafest Presentation](https://hlan22.github.io/asa_datafest_2025/#/results-all-markets)](https://hlan22.github.io/asa_datafest_2025/#/results-all-markets){target="_blank"}
 
-See the presentation at [this link](https://hlan22.github.io/asa_datafest_2025/#/title-slide).
+See the presentation at [this link](https://hlan22.github.io/asa_datafest_2025/#/title-slide){target="_blank"}.
 :::
 
 
@@ -99,12 +105,12 @@ See the presentation at [this link](https://hlan22.github.io/asa_datafest_2025/#
 * The aim of `wordplay` is to learn more about your favorite list of words! Learn about metrics such as length, most frequent starting letter, and much more with ease!
 * A fully functioning R package with clear `README.Rmd` instructions on how to install and use, along with a vignette, website, and Roxygen comments to help guide the user.
 * I have built up a 'list of favorite words' over the years and wanting to learn more about them is what inspired me to make this package!
-* See the [R package repository](https://github.com/hlan22/wordplay) and the [package website](https://hlan22.github.io/wordplay/).
+* See the [R package repository](https://github.com/hlan22/wordplay){target="_blank"} and the [package website](https://hlan22.github.io/wordplay/){target="_blank"}.
 
 ::: {#fig-wordplay}
-[![](../outputs/wordplay_website.png)](https://hlan22.github.io/wordplay/)
+[![](../outputs/wordplay_website.png)](https://hlan22.github.io/wordplay/){target="_blank"}
 
-A preview of the [package website](https://hlan22.github.io/wordplay/)
+A preview of the [package website](https://hlan22.github.io/wordplay/){target="_blank"}
 :::
 
 ---
@@ -131,7 +137,7 @@ Dashboard for a data visualization course (DSCI 320)
 * A Python Package (still in progress) such that you can “automate” EDA for any given dataset. 
 * Functions will quickly and easily create proper plots based on data types, for any and all columns. 
 * Code will be done with Python so that you can include interactive visuals, but will expand to R too.
-* Link to the repository [here](https://github.com/hlan22/easy_eda)
+* Link to the repository [here](https://github.com/hlan22/easy_eda){target="_blank"}
 
 
 <!-- 
