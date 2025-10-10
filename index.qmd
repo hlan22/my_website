@@ -3,6 +3,7 @@
 format:
   html:
     css: styles.css
+lightbox: true
 ---
 
 <div class="centered-title">Heidi Lantz</div>
@@ -12,28 +13,26 @@ format:
 
 ![](outputs/norway_image.jpg){width=70% height=70% .lightbox}
 
-Visiting the *Gol Stave Church* <br>
+Visiting the [*Gol Stave Church*](https://en.wikipedia.org/wiki/Gol_Stave_Church){target="_blank"} <br>
 during my semester at the **University of Oslo**!
 :::
 
 <div>
 ## About Me
 
-Hello, I'm Heidi! 
+Hi, I'm Heidi! 
 
 I work as a Data Modernization Consultant, and I am developing my skills to become a data engineer!
 
 I recently graduated with a BSc. at the University of British Columbia in Vancouver! I graduated with a major in statistics and a minor in data science.
 
 My interests involve data visualization, Microsoft Azure, SQL, AI, and so much more. 
-Please take a look through my website to learn more about me!
+Take a look through my website to learn more about me!
 
 ## Contact
-Please feel free to reach out if you have any questions.
-
--   **GitHub**: <https://github.com/hlan22>
--   **LinkedIn**: <https://www.linkedin.com/in/heidilantz/>
--   **Email**: [heidilantz22\@gmail.com](mailto:heidilantz22@gmail.com){.email}
-
+**GitHub**: [https://github.com/hlan22](https://github.com/hlan22){target="_blank"} <br>
+**LinkedIn**: [https://www.linkedin.com/in/heidilantz/](https://www.linkedin.com/in/heidilantz/){target="_blank"} <br>
+**Email**: [heidilantz22\@gmail.com](mailto:heidilantz22@gmail.com){.email}{target="_blank"} <br>
+Reach out if you have any questions!
 </div>
 :::
