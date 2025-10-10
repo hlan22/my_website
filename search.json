@@ -53,7 +53,35 @@
     "href": "pages/certifications.html",
     "title": "",
     "section": "",
-    "text": "Code\n\n\n\n\n\nMy Certifications & Certificates\n\n\n\nMy Certifications\n\n\nAZ-900: Microsoft Azure Fundamentals\n\n\nCDP101: Consultant Development Program\n\n\n\n\n\n\n\n\n\nNoneMy Course Certificates\n\n\n\n\nLakehouse Architecture with Databricks\n\n\nCourse ID: E-VP9791\nCompleted 5/5/2025\n\n\n\n\n\n\n\nFigure 1: Certificate of Completion: Get Started With Lakehouse Architecture\n\n\n\n\n\nCourse Topics and Objectives\n\n\nSee the course here: https://www.databricks.com/learn/training/get-started-lakehouse-architecture#data-video\nLearning Objectives:\n\n\nDescribe the available compute options for workloads performed on the databricks data intelligence platform\n\n\nList the products and features databricks offers for different data-centric needs within the databricks platform\n\n\nNavigate the databricks workspace UI\n\n\nDevelop an agreed upon set of terminology and concepts for discussing Lakehouse Architecture\n\n\nDefine the framework of a modern data and AI platform\n\n\nExplain the range of functions, capabilities, and use cases for data lakehouses within enterprise businesses.\n\n\nDescribe the rules that make up the guiding philosophy behind a data lakehouse architecture\n\n\nUse the guiding princples of the lakehouse architecture to verify that your organizations data strategy aligns with the vision of the Databricks Data Intelligence Platform.\n\n\nIdentify the componenets of a lakehouse architecture by reviewing available reference architecture for your given cloud implementation.\n\n\nDifferentiate between the different roles and responsibilities of Databricks Data Intelligence platform features and products and those provided by the cloud service provider in a lakehouse architecture.\n\n\nDescribe the well-architected framework adopted by the three largest cloud service providers.\n\n\nExplain how Databricks has adapted and built upon the cloud well-architected framework for the well-architected lakehouse framework.\n\n\nList the seven pillars of the well-architected lakehouse framework.\n\n\n\n\nResearch Ethics\n\nCompleted 12/1/2025\n\n\n\n\n\n\n\nFigure 2: Certificate of Completion: Ethical Conduct for Research Involving Humans\n\n\n\n\n\n\n\nAdditional Courses taken (without Certificate)\n\nGet started with Azure DevOps\nGet started with Microsoft Fabric\nImplement a data engineering solution with Azure Databricks\nImplement Generative AI engineering with Azure Databricks"
+    "text": "Code"
+  },
+  {
+    "objectID": "pages/certifications.html#lakehouse-architecture-with-databricks",
+    "href": "pages/certifications.html#lakehouse-architecture-with-databricks",
+    "title": "",
+    "section": "Lakehouse Architecture with Databricks",
+    "text": "Lakehouse Architecture with Databricks\n\n\nCourse ID: E-VP9791\nCompleted 5/5/2025\n\n\n\n\n\n\n\nFigure 4: Certificate of Completion: Get Started With Lakehouse Architecture\n\n\n\n\n\nCourse Topics and Objectives\n\n\nSee the course here\nLearning Objectives:\n\n\nDescribe the available compute options for workloads performed on the databricks data intelligence platform\n\n\nList the products and features databricks offers for different data-centric needs within the databricks platform\n\n\nNavigate the databricks workspace UI\n\n\nDevelop an agreed upon set of terminology and concepts for discussing Lakehouse Architecture\n\n\nDefine the framework of a modern data and AI platform\n\n\nExplain the range of functions, capabilities, and use cases for data lakehouses within enterprise businesses.\n\n\nDescribe the rules that make up the guiding philosophy behind a data lakehouse architecture\n\n\nUse the guiding princples of the lakehouse architecture to verify that your organizations data strategy aligns with the vision of the Databricks Data Intelligence Platform.\n\n\nIdentify the componenets of a lakehouse architecture by reviewing available reference architecture for your given cloud implementation.\n\n\nDifferentiate between the different roles and responsibilities of Databricks Data Intelligence platform features and products and those provided by the cloud service provider in a lakehouse architecture.\n\n\nDescribe the well-architected framework adopted by the three largest cloud service providers.\n\n\nExplain how Databricks has adapted and built upon the cloud well-architected framework for the well-architected lakehouse framework.\n\n\nList the seven pillars of the well-architected lakehouse framework."
+  },
+  {
+    "objectID": "pages/certifications.html#sql-essential-training",
+    "href": "pages/certifications.html#sql-essential-training",
+    "title": "",
+    "section": "SQL Essential Training",
+    "text": "SQL Essential Training\nSQL Essential Training (LinkedIn Learning)"
+  },
+  {
+    "objectID": "pages/certifications.html#research-ethics",
+    "href": "pages/certifications.html#research-ethics",
+    "title": "",
+    "section": "Research Ethics",
+    "text": "Research Ethics\n\nCompleted 12/1/2025\n\n\n\n\n\n\n\nFigure 5: Certificate of Completion: Ethical Conduct for Research Involving Humans"
+  },
+  {
+    "objectID": "pages/certifications.html#additional-courses-taken-without-a-certificate",
+    "href": "pages/certifications.html#additional-courses-taken-without-a-certificate",
+    "title": "",
+    "section": "Additional Courses taken (without a Certificate)",
+    "text": "Additional Courses taken (without a Certificate)\n\nGet started with Azure DevOps\nGet started with Microsoft Fabric\nImplement a data engineering solution with Azure Databricks\nImplement Generative AI engineering with Azure Databricks"
   },
   {
     "objectID": "pages/current_events.html",
