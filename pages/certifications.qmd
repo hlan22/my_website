@@ -1,32 +1,54 @@
 ---
-# title: "certifications"
-toc: true
+# title: "Certifications"      # commented out since personalized div title set below
+toc: true                      # creates a table of contents on the side
 format:
   html:
-    css: styles.css
-    code-overflow: wrap   # wraps the code around instead of scrolling
-    embed-resources: true # images and such
-    code-background: true # makes sure there is a different background for code blocks
-    code-fold: true       # "hides" code in a summary box above output
-    code-summary: "Show Code"  # renames the summary box title
-    code-tools: true      # makes a menu to show all code select at once
+    css: styles.css             # includes styling from css file
+    code-overflow: wrap         # wraps the code, instead of scrolling for code blocks
+    # embed-resources: true       # embeds images/css/etc. into html file # not good for multi-page websites
+    code-background: true       # Has a different background for code blocks
+    code-fold: true             # "hides" code in a summary box above output
+    code-summary: "Show Code"   # renames the summary box title
+    code-tools: true            # makes a menu to show all code select at once
+lightbox: true                  # all images have englarged popup when you click on them - see: https://quarto.org/docs/output-formats/html-lightbox-figures.html
 ---
 
 <div class="centered-title">My Certifications & Certificates</div>
 
 <details class="callout callout-style-simple clean-dropdown">
-  <summary>My Certifications</summary>
+  <summary>Certifications</summary>
   
   <h2>AZ-900: Microsoft Azure Fundamentals</h2>
-  <h2>CDP101: Consultant Development Program</h2>
+
+::: {#fig-az-fundamentals height=60%}
+![](../outputs/azure_fundamentals_cert.png)
+
+Microsoft Certified Azure Fundamentals
+:::
+
+  <h2>CDP-101: Consultant Development Program at Long View Systems</h2>
+
+::: {#fig-lvs-101 height=60%}
+![](../outputs/cdp_101_cert.png)
+
+Consultant Development Program 101
+:::
+
+  <h2>CDP-201: Consultant Development Program at Long View Systems</h2>
+
+::: {#fig-lvs-201 height=60%}
+![](../outputs/cdp_201_cert.png)
+
+Consultant Development Program 201
+:::
 </details>
 
 ---
 
 ::: {.callout .dropdown}
-### My Course Certificates
+# Course Certificates
 
-# Lakehouse Architecture with Databricks
+## Lakehouse Architecture with Databricks
 
 <!--See https://customer-academy.databricks.com/learn/mycourses to view the course-->
 
@@ -44,7 +66,7 @@ Certificate of Completion: Get Started With Lakehouse Architecture
 <details>
 <summary>Course Topics and Objectives</summary>
 
-* See the course here: <https://www.databricks.com/learn/training/get-started-lakehouse-architecture#data-video>
+* See the course [here](https://www.databricks.com/learn/training/get-started-lakehouse-architecture#data-video){target="_blank"}
 * Learning Objectives:
 
 > Describe the available compute options for workloads performed on the databricks data intelligence platform
@@ -75,8 +97,12 @@ Certificate of Completion: Get Started With Lakehouse Architecture
 
 </details>
 
+## SQL Essential Training 
 
-# Research Ethics
+[SQL Essential Training (LinkedIn Learning)](https://www.linkedin.com/learning/sql-essential-training-20685933/the-data-driven-world-19067626?u=264700066){target="_blank"}
+
+
+## Research Ethics
 
 * Completed 12/1/2025
 
@@ -89,16 +115,16 @@ Certificate of Completion: Ethical Conduct for Research Involving Humans
 :::
 
 
-# Additional Courses taken (without Certificate)
+## Additional Courses taken (without a Certificate)
 
-* [Get started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
+* [Get started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/){target="_blank"}
 
-* [Get started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/)
+* [Get started with Microsoft Fabric](https://learn.microsoft.com/en-us/training/paths/get-started-fabric/){target="_blank"}
 
-* [Implement a data engineering solution with Azure Databricks](https://learn.microsoft.com/en-us/training/paths/azure-databricks-data-engineer/)
+* [Implement a data engineering solution with Azure Databricks](https://learn.microsoft.com/en-us/training/paths/azure-databricks-data-engineer/){target="_blank"}
 
-* [Implement Generative AI engineering with Azure Databricks](https://learn.microsoft.com/en-us/training/paths/implement-generative-ai-engineering-azure-databricks/)
+* [Implement Generative AI engineering with Azure Databricks](https://learn.microsoft.com/en-us/training/paths/implement-generative-ai-engineering-azure-databricks/){target="_blank"}
 
 <!-- 
-I hope you enjoyed looking at the source code! ;)
+Psst! I hope you enjoyed looking at the source code :)
 -->
